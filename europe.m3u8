@@ -1,0 +1,2657 @@
+#EXTM3U
+
+#EXTINF:0,bbc america
+#EXTGRP:US
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/1092/index.m3u8
+#EXTINF:0,bravo
+#EXTGRP:US
+http://t.freetv.fun/live/bravo-4.m3u8
+#EXTINF:0,abc4
+#EXTGRP:US
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+#EXTINF:0,abc6
+#EXTGRP:US
+https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+#EXTINF:0,abc7
+#EXTGRP:US
+https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+#EXTINF:0,abc10
+#EXTGRP:US
+https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
+#EXTINF:0,abc13
+#EXTGRP:US
+https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
+#EXTINF:0,abc15
+#EXTGRP:US
+https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
+#EXTINF:0,abc22
+#EXTGRP:US
+https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
+#EXTINF:0,fox11
+#EXTGRP:US
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+#EXTINF:0,fox45
+#EXTGRP:US
+https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
+#EXTINF:0,nbc4
+#EXTGRP:US
+https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
+#EXTINF:0,nbc6
+#EXTGRP:US
+https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
+#EXTINF:0,nbc9
+#EXTGRP:US
+https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
+#EXTINF:0,cbs Austin
+#EXTGRP:US
+https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
+#EXTINF:0,cbs3
+#EXTGRP:US
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+#EXTINF:0,cbs12
+#EXTGRP:US
+https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
+#EXTINF:0,cbs21
+#EXTGRP:US
+https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
+#EXTINF:0,cbs22
+#EXTGRP:US
+https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+#EXTINF:0,nbc
+#EXTGRP:US
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:0,amc
+#EXTGRP:US
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:0,amc east
+#EXTGRP:US
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:0,tbs
+#EXTGRP:US
+http://41.205.93.154/TBS/index.m3u8
+#EXTINF:0,foodnetwork hd
+#EXTGRP:US
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:0,cooking
+#EXTGRP:US
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:0,vh1
+#EXTGRP:US
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:0,vice
+#EXTGRP:US
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:0,nat geo
+#EXTGRP:US
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:0,discovery
+#EXTGRP:US
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:0,crime
+#EXTGRP:US
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+#EXTINF:0,e!
+#EXTGRP:US
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:0,dest america
+#EXTGRP:US
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:0,boomerang
+#EXTGRP:US
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:0,nbo zone
+#EXTGRP:US
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:0,mtv
+#EXTGRP:US
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:0,ifc
+#EXTGRP:US
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0,lmn
+#EXTGRP:US
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:0,msg
+#EXTGRP:US
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0,wgn
+#EXTGRP:US
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:0,tru tv
+#EXTGRP:US
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:0,cinemax
+#EXTGRP:US
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:0,comedy central
+#EXTGRP:US
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0,5star max
+#EXTGRP:US
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0,syfy
+#EXTGRP:US
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0,starz
+#EXTGRP:US
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0,starz cinema
+#EXTGRP:US
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:0,starz comedy
+#EXTGRP:US
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0,paramount
+#EXTGRP:US
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0,revolt
+#EXTGRP:US
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:0,animal planet
+#EXTGRP:US
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:0,cartoon network
+#EXTGRP:US
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0,bounce
+#EXTGRP:US
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:0,nickelodeon
+#EXTGRP:US
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:0,disney xd
+#EXTGRP:US
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:0,fx
+#EXTGRP:US
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:0,fxx
+#EXTGRP:US
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:0,blacknews
+#EXTGRP:US
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:0,tvs classic movies
+#EXTGRP:US
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:0,pinoymovie box
+#EXTGRP:US
+https://183.bozztv.com/giatv/giatv-PHMOVIEBOX/PHMOVIEBOX/playlist.m3u8
+#EXTINF:0,revry
+#EXTGRP:US
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:0,true history
+#EXTGRP:US
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:0,bang bang
+#EXTGRP:US
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+#EXTINF:0,edgy tv
+#EXTGRP:US
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8
+#EXTINF:0,edgy urban
+#EXTGRP:US
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8
+#EXTINF:0,fun roads
+#EXTGRP:US
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+#EXTINF:0,yta
+#EXTGRP:US
+http://yta.unitedteleports.tv/hls/YTA.m3u8
+#EXTINF:0,newsmax2
+#EXTGRP:US
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,nbc lx
+#EXTGRP:US
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:0,supreme master
+#EXTGRP:US
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:0,Tf1 fr
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7262/index.m3u8
+#EXTINF:0,Tf1 series
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15187/index.m3u8
+#EXTINF:0,France 2 hd
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6147/index.m3u8
+#EXTINF:0,France 3 hd
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6148/index.m3u8
+#EXTINF:0,France 4 hd
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6149/index.m3u8
+#EXTINF:0,France 5 hd
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6150/index.m3u8
+#EXTINF:0,canal+ hd fr
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6007/index.m3u8
+#EXTINF:0,canal+ sport
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/2502/index.m3u8
+#EXTINF:0,canal+ cinema
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6004/index.m3u8
+#EXTINF:0,canal+ kids
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6006/index.m3u8
+#EXTINF:0,paris premiere
+#EXTGRP:FR
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6146/index.m3u8
+#EXTINF:0,France2-6
+#EXTGRP:FR
+http://99.27.51.147:8080/France2/mono.m3u8
+#EXTINF:0,France3-paca
+#EXTGRP:FR
+http://99.27.51.147:8080/France3/mono.m3u8
+#EXTINF:0,France4-6
+#EXTGRP:FR
+http://99.27.51.147:8080/France4/mono.m3u8
+#EXTINF:0,France5-6
+#EXTGRP:FR
+http://99.27.51.147:8080/France5/mono.m3u8
+#EXTINF:0,M6-6
+#EXTGRP:FR
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:0,W9-6
+#EXTGRP:FR
+http://99.27.51.147:8080/W9/index.m3u8
+#EXTINF:0,lci
+#EXTGRP:FR
+http://99.27.51.147:8080/LCI/index.m3u8
+#EXTINF:0,cnews
+#EXTGRP:FR
+http://99.27.51.147:8080/iTele/mono.m3u8
+#EXTINF:0,arte-6
+#EXTGRP:FR
+http://99.27.51.147:8080/Arte/index.m3u8
+#EXTINF:0,tmc-6
+#EXTGRP:FR
+http://99.27.51.147:8080/TMC/index.m3u8
+#EXTINF:0,rmc life-6
+#EXTGRP:FR
+http://99.27.51.147:8080/Cherie25/index.m3u8
+#EXTINF:0,rmc story-6
+#EXTGRP:FR
+http://99.27.51.147:8080/Rmcstory/mono.m3u8
+#EXTINF:0,rmc recouverte-6
+#EXTGRP:FR
+http://99.27.51.147:8080/Rmcdecouverte/mono.m3u8
+#EXTINF:0,gulli-6
+#EXTGRP:FR
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:0,bravo
+#EXTGRP:FR
+http://99.27.51.147/E/index.m3u8
+#EXTINF:0,infosport
+#EXTGRP:FR
+http://99.27.51.147:8080/Infosport/index.m3u8
+#EXTINF:0,eurosport2
+#EXTGRP:FR
+http://99.27.51.147:8080/Eurosport2/index.m3u8
+#EXTINF:0,bfm tv
+#EXTGRP:FR
+http://99.27.51.147:8080/BFMTV/index.m3u8?https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&amp;bpkio_sessionid=10d0b14f196-f0bea27e-d37c-479c-954b-ab6aaf3460f4&amp;category=all&amp;mm_sp
+#EXTINF:0,france24
+#EXTGRP:FR
+http://88.212.7.11/live/test_france24_france/playlist.m3u8
+#EXTINF:0,tv5info
+#EXTGRP:FR
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/04.m3u8
+#EXTINF:0,voyages
+#EXTGRP:FR
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+#EXTINF:0,savoir
+#EXTGRP:FR
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:0,super yacht
+#EXTGRP:FR
+http://88.212.7.11/live/test_superyacht/playlist.m3u8
+#EXTINF:0,russia today
+#EXTGRP:FR
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:0,cgtn
+#EXTGRP:FR
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8?http://88.212.7.11/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:0,bfm2
+#EXTGRP:FR
+https://live-cdn-bfm2-euw3.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bb87076b2e48c4597&amp;bpkio_sessionid=10e0b32f8-e92c82e4-6de4-49a4-8314-3c93f3dede2e&amp;category=all&amp;mm_sp
+#EXTINF:0,business
+#EXTGRP:FR
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92&amp;bpkio_sessionid=10d0b14f196-069224bb-9a8c-4c07-9449-1b10d9c6075d&amp;category=all&amp;mm_sp
+#EXTINF:0,bfm lyon
+#EXTGRP:FR
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm lille
+#EXTGRP:FR
+https://live-cdn-bfmtvlil-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm littoral
+#EXTGRP:FR
+https://live-cdn-bfmtvgdl-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm alpes
+#EXTGRP:FR
+https://live-cdn-bfmtvalp-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm provence
+#EXTGRP:FR
+https://live-cdn-bfmtvpro-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm cote d azur
+#EXTGRP:FR
+https://live-cdn-bfmtvcda-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm marseille
+#EXTGRP:FR
+https://live-cdn-bfmtvmar-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm toulon var
+#EXTGRP:FR
+https://live-cdn-bfmtvvar-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm normandie
+#EXTGRP:FR
+https://live-cdn-bfmtvnor-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,bfm alsace
+#EXTGRP:FR
+https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:0,le figaro
+#EXTGRP:FR
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:0,via matele
+#EXTGRP:FR
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:0,via vosges
+#EXTGRP:FR
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/manifest_w366489808.mpd
+#EXTINF:0,il tv
+#EXTGRP:FR
+http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:0,tebeo
+#EXTGRP:FR
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/str_tebeo_tebeo/str_tebeo_tebeo_1080p/chunks.m3u8
+#EXTINF:0,tv7 colmar
+#EXTGRP:FR
+https://tv7.live-kd.com/live/tv7/ngrp:tv7_Wifi/playlist.m3u8
+#EXTINF:0,tv78 yvelines
+#EXTGRP:FR
+https://strhls.streamakaci.tv/tv78/tv78-multi/tv78/tv78_1080p/chunks.m3u8
+#EXTINF:0,bip tv
+#EXTGRP:FR
+https://hls-biptv.archistream.live/hls/master.m3u8
+#EXTINF:0,vox africa
+#EXTGRP:FR
+https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,tma caraibes
+#EXTGRP:FR
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:0,medi1
+#EXTGRP:FR
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/corp/83_medi1tv-afrique_tm7tu45_1080p/chunks_dvr.m3u8
+#EXTINF:0,africa24 sport
+#EXTGRP:FR
+https://africa24sport.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
+#EXTINF:0,africa 24
+#EXTGRP:FR
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?http://41.205.70.146/AFRICA24/index.m3u8
+#EXTINF:0,tv a12
+#EXTGRP:FR
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:0,mm tv
+#EXTGRP:FR
+http://102.132.19.90:8080/MY-MEDIA/index.m3u8
+#EXTINF:0,tahiti tv
+#EXTGRP:FR
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:0,4veh
+#EXTGRP:FR
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+#EXTINF:0,kalac tv
+#EXTGRP:FR
+https://kalactv.vedge.infomaniak.com/livecast/kalactv/playlist.m3u8
+
+#EXTINF:-1,la une
+#EXTGRP:BE
+http://82.64.27.86:3000/T-0-10-1?http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1,Tipik
+#EXTGRP:BE
+http://82.64.27.86:3000/T-0-10-2
+#EXTINF:-1,la trois
+#EXTGRP:BE
+http://82.64.27.86:3000/T-0-10-3
+#EXTINF:-1,brf
+#EXTGRP:BE
+http://82.64.27.86:3000/T-0-10-4
+#EXTINF:0,ami
+#EXTGRP:BE
+http://41.205.93.154/AB1/index.m3u8
+#EXTINF:0,elle fictions
+#EXTGRP:BE
+http://41.205.93.154/AB3/index.m3u8
+
+#EXTINF:0,rts1
+#EXTGRP:CH
+http://84.17.50.102/rts1/index.m3u8
+#EXTINF:0,rts2
+#EXTGRP:CH
+http://84.17.50.102/rts2/index.m3u8
+#EXTINF:0,SRF regional
+#EXTGRP:CH
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:0,cna ch
+#EXTGRP:CH
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:0,alpe de huez
+#EXTGRP:CH
+https://edge13.vedge.infomaniak.com/livecast/adhtv/playlist.m3u8
+#EXTINF:0,tvm3
+#EXTGRP:CH
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:0,pmc royale
+#EXTGRP:CH
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:0,carac1
+#EXTGRP:CH
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:0,carac2
+#EXTGRP:CH
+https://onefmmd.vedge.infomaniak.com/livecast/onefmmd/playlist.m3u8
+#EXTINF:0,carac3
+#EXTGRP:CH
+https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/playlist.m3u8
+#EXTINF:0,carac4
+#EXTGRP:CH
+https://edge16.vedge.infomaniak.com/livecast/compack_media_1/playlist.m3u8
+#EXTINF:0,carac5
+#EXTGRP:CH
+https://edge20.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:0,gong
+#EXTGRP:CH
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungch/playlist.m3u8
+#EXTINF:0,meteonews
+#EXTGRP:CH
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:0,dbm
+#EXTGRP:CH
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:0,generation tv
+#EXTGRP:CH
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/playlist.m3u8
+#EXTINF:0,fusion tv
+#EXTGRP:CH
+https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
+#EXTINF:0,alpha
+#EXTGRP:CH
+https://canalalpha.vedge.infomaniak.com/livecast/smil:canalalpha.smil/manifest.m3u8
+#EXTINF:0,alpha neuchatel
+#EXTGRP:CH
+http://canalalphane.vedge.infomaniak.com/livecast/canalalphane/playlist.m3u8
+#EXTINF:0,alpha jura
+#EXTGRP:CH
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:0,neue zeit
+#EXTGRP:CH
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:0,teleticino
+#EXTGRP:CH
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:0,radio3i
+#EXTGRP:CH
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:0,radio ln
+#EXTGRP:CH
+http://funlive.vedge.infomaniak.com/livecast/funlive/main.m3u8
+
+#EXTINF:0,Rai 1 HD
+#EXTGRP:IT
+http://88.212.7.11/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0,Rai 2 hd
+#EXTGRP:IT
+http://41.223.30.230/RAI2/index.m3u8
+#EXTINF:0,rai news
+#EXTGRP:IT
+http://41.223.30.230/RAINEWS24/index.m3u8
+#EXTINF:0,RAI 3 HD
+#EXTGRP:IT
+http://88.212.7.11/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:0,RAI sport
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19106/index.m3u8
+#EXTINF:0,RAI gulp
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19092/index.m3u8
+#EXTINF:0,rai premium
+#EXTGRP:IT
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:0,rai movie
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19086/index.m3u8
+#EXTINF:0,tv2000
+#EXTGRP:IT
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:0,euronews
+#EXTGRP:IT
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMGEyODJjMWItNDMzOC00ZDc0LTk3NTMtNTBhNGRiOGFmMDViIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjoxfQ==/25674/euronews-it.m3u8
+#EXTINF:0,super!
+#EXTGRP:IT
+https://StreamCdnG2-495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/chunks_dvr.m3u8
+#EXTINF:0,grjngo
+#EXTGRP:IT
+https://e5f682608a9344b48223fc78572404d9.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_GrjngoFilmWestern/playlist.m3u8
+#EXTINF:0,western
+#EXTGRP:IT
+https://amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-samsungit/playlist.m3u8
+#EXTINF:0,la7hd
+#EXTGRP:IT
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8?https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+#EXTINF:0,super tennis
+#EXTGRP:IT
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:0,tv 2000
+#EXTGRP:IT
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/1080p.m3u8
+#EXTINF:0,sky cinema uno
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19095/index.m3u8
+#EXTINF:0,sky cinema stories
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19096/index.m3u8
+#EXTINF:0,sky cinema comedy
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19097/index.m3u8
+#EXTINF:0,sky cinema suspense
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19100/index.m3u8
+#EXTINF:0,sky Atlantic
+#EXTGRP:IT
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19102/index.m3u8
+#EXTINF:0,bom
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:0,tv yes
+#EXTGRP:IT
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:0,quiradiolondra de
+#EXTGRP:IT
+https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u8
+#EXTINF:0,maristella de
+#EXTGRP:IT
+https://load-balancer.azotosolutions.com/cdnedge10/smil:live10.smil/playlist.m3u8
+#EXTINF:0,rgold de
+#EXTGRP:IT
+https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
+#EXTINF:0,tvr xenon de
+#EXTGRP:IT
+https://load-balancer.azotosolutions.com/cdnedge4/smil:live4.smil/playlist.m3u8
+#EXTINF:0,euro de
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:0,junior de
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:0,uninettuno nl
+#EXTGRP:IT
+https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
+#EXTINF:0,global fashion us
+#EXTGRP:IT
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
+#EXTINF:0,primafree de
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:0,deluxe139rb
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:0,sport outdoor us
+#EXTGRP:IT
+https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8
+#EXTINF:0,televisa us
+#EXTGRP:IT
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,cget us
+#EXTGRP:IT
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,mejdugorie de
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:0,san marino pl
+#EXTGRP:IT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:0,san marino sport pl
+#EXTGRP:IT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
+#EXTINF:0,PI onda novara
+#EXTGRP:IT
+https://585b674743bbb.streamlock.net/9006/9006/chunklist_w1203732906.m3u8
+#EXTINF:0,PI rete biella
+#EXTGRP:IT
+https://ed06.top-ix.org/retebiella/_definst_/streaming/playlist.m3u8
+#EXTINF:0,PI rete7
+#EXTGRP:IT
+https://live.ipstream.it/etv/etv.stream/chunklist_w243272433.m3u8
+#EXTINF:0,PI grp
+#EXTGRP:IT
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:0,LI telenord
+#EXTGRP:IT
+https://64b16f23efbee.streamlock.net/telenord/telenord/chunklist.m3u8
+#EXTINF:0,li entella
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/.m3u8
+#EXTINF:0,LI 111
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net/111/111/chunklist.m3u8
+#EXTINF:0,LOmbardia80
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/chunklist.m3u8
+#EXTINF:0,LO Milano pavia
+#EXTGRP:IT
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:0,LO antenna2
+#EXTGRP:IT
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/chunklist_w1620243787.m3u8
+#EXTINF:0,LO Bergamo
+#EXTGRP:IT
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:0,LO cusano
+#EXTGRP:IT
+https://stream6.xdevel.com/video0s975363-2102/stream/chunks.m3u8
+#EXTINF:0,LO supersix
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:0,LO tsn
+#EXTGRP:IT
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/mono.m3u8
+#EXTINF:0,LO leonessa
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w1788982334.m3u8
+#EXTINF:0,LO super
+#EXTGRP:IT
+http://wms.shared.streamshow.it/supertv/supertv/playlist.m3u8
+#EXTINF:0,LO mantova
+#EXTGRP:IT
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w530260602.m3u8
+#EXTINF:0,LO brescia
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:0,V a3
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist_w1811778492.m3u8
+#EXTINF:0,V venezia
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/chunklist_w508202690.m3u8
+#EXTINF:0,V tva vicenza
+#EXTGRP:IT
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:0,V rete veneta
+#EXTGRP:IT
+http://wms.shared.streamshow.it/reteveneta/reteveneta/chunklist.m3u8
+#EXTINF:0,V orler
+#EXTGRP:IT
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:0,TAltoAdige
+#EXTGRP:IT
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist.m3u8
+#EXTINF:0,taa peer
+#EXTGRP:IT
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:0,TAA rttr
+#EXTGRP:IT
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/chunklist.m3u8
+#EXTINF:0,FVG friuli24
+#EXTGRP:IT
+https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
+#EXTINF:0,FVG udinese
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/chunklist_w1914358130.m3u8
+#EXTINF:0,FVG canale6
+#EXTGRP:IT
+http://195.231.82.127:8082/hls/test_low.m3u8
+#EXTINF:0,FVG quattro
+#EXTGRP:IT
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:0,ER qui
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:0,er88madeinbo
+#EXTGRP:IT
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:0,ER parma12
+#EXTGRP:IT
+https://5929b138b139d.streamlock.net/12TVParma/livestream/.m3u8
+#EXTINF:0,ER rimini
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,ER tricolore97
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:0,ER romagna24
+#EXTGRP:IT
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:0,ER tr sport
+#EXTGRP:IT
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:0,TO italia7 it
+#EXTGRP:IT
+https://streaming.softwarecreation.it/Italia7/Italia7/chunklist_w1969623802.m3u8
+#EXTINF:0,TO tvl pistoia
+#EXTGRP:IT
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/chunks.m3u8
+#EXTINF:0,to prato
+#EXTGRP:IT
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+#EXTINF:0,TO vuemme
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net/vm/vm/chunklist_w1383753871.m3u8
+#EXTINF:0,TO nti
+#EXTGRP:IT
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+#EXTINF:0,UM trg
+#EXTGRP:IT
+https://www.trgmedia.it/hls/livestreamHD.m3u8
+#EXTINF:0,MAtvrs
+#EXTGRP:IT
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/chunklist.m3u8
+#EXTINF:0,MA etv
+#EXTGRP:IT
+https://live.ipstream.it/etvmarche2/etvmarche2.stream/chunklist_w1169134434.m3u8
+#EXTINF:0,MA vera
+#EXTGRP:IT
+https://cdn9.streamshow.it/cloud-veratv/veratv/chunklist.m3u8
+#EXTINF:0,MA fano19
+#EXTGRP:IT
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0,LAzio tv
+#EXTGRP:IT
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+#EXTINF:0,LA gold
+#EXTGRP:IT
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:0,LA rete oro
+#EXTGRP:IT
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:0,CAM prima nap
+#EXTGRP:IT
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/chunklist_w1804831195.m3u8
+#EXTINF:0,CAM laser
+#EXTGRP:IT
+https://585b674743bbb.streamlock.net/9022/9022/chunklist_w1154632232.m3u8
+#EXTINF:0,CAM romantica
+#EXTGRP:IT
+https://stream10.xdevel.com/video0s977363-1901/stream/chunks.m3u8
+#EXTINF:0,CAM minformo fr
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:0,CAM stereo5
+#EXTGRP:IT
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:0,BA laser fr
+#EXTGRP:IT
+https://57068da1deb21.streamlock.net/radiolaser/radiolaser/chunklist_w1905362574.m3u8
+#EXTINF:0,BA la nuova
+#EXTGRP:IT
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:0,BA auroraarte
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:0,BA citta de
+#EXTGRP:IT
+https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
+#EXTINF:0,BA le cronache
+#EXTGRP:IT
+http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:0,AB delta1 gb
+#EXTGRP:IT
+https://stream6.xdevel.com/video0s976486-1271/stream/playlist.m3u8
+#EXTINF:0,AB trsp
+#EXTGRP:IT
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/chunklist_w1289471539.m3u8
+#EXTINF:0,AB il61
+#EXTGRP:IT
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+#EXTINF:0,AB rete8
+#EXTGRP:IT
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:0,AB rete8sport
+#EXTGRP:IT
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
+#EXTINF:0,AB retetvitalia
+#EXTGRP:IT
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w1989252779.m3u8
+#EXTINF:0,AB superj
+#EXTGRP:IT
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/chunklist_w1625072851.m3u8
+#EXTINF:0,MO tlt
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/mono_w1143191259.m3u8
+#EXTINF:0,PU canale2 
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/mono.m3u8
+#EXTINF:0,PU canale7
+#EXTGRP:IT
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:0,PU bari
+#EXTGRP:IT
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:0,PU azzurra fr
+#EXTGRP:IT
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+#EXTINF:0,CAL rtc
+#EXTGRP:IT
+https://w1.mediastreaming.it/calabriachannel/livestream/chunklist_w401940018.m3u8
+#EXTINF:0,CAL Reggio
+#EXTGRP:IT
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/chunklist.m3u8
+#EXTINF:0,CAL esperia
+#EXTGRP:IT
+http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
+#EXTINF:0,SAR videolina
+#EXTGRP:IT
+https://streamcdnb4-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+#EXTINF:0,SC rmk
+#EXTGRP:IT
+https://648026e87a75e.streamlock.net/rmktv/rmktv/chunklist_w470785634.m3u8
+#EXTINF:0,SC gela
+#EXTGRP:IT
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:0,SC rtp
+#EXTGRP:IT
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:0,SC videostar
+#EXTGRP:IT
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+#EXTINF:0,97sc
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net/canale97/canale97/chunklist_w373978608.m3u8
+#EXTINF:0,SC sicilia24
+#EXTGRP:IT
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/chunklist_w870086573.m3u8
+#EXTINF:0,SC telesud
+#EXTGRP:IT
+https://64b16f23efbee.streamlock.net/asdfgh/asdfgh/chunklist_w1195255203.m3u8
+#EXTINF:0,SC nuova
+#EXTGRP:IT
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:0,SC etna
+#EXTGRP:IT
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:0,SAL italia②
+#EXTGRP:IT
+http://wms.shared.streamshow.it/italia2/mp4:italia2/mono.m3u8
+#EXTINF:0,SAL telecolore②
+#EXTGRP:IT
+https://stream10.xdevel.com/video14s975955-1911/stream/chunks.m3u8
+
+#EXTINF:0,tvp1
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7292/index.m3u8
+#EXTINF:0,tvp2
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7293/index.m3u8
+#EXTINF:0,tvp3
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7284/index.m3u8
+#EXTINF:0,tvp historia
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7283/index.m3u8
+#EXTINF:0,tvp Info
+#EXTGRP:PL
+http://88.212.7.11/live/test_tvp_info/playlist.m3u8
+#EXTINF:0,tvp polonia
+#EXTGRP:PL
+http://88.212.7.11/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:0,tvp hd
+#EXTGRP:PL
+https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8
+#EXTINF:0,euronews pl
+#EXTGRP:PL
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:0,polsat
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7299/index.m3u8
+#EXTINF:0,tv4
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7290/index.m3u8
+#EXTINF:0,tvn7
+#EXTGRP:PL
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7279/index.m3u8
+#EXTINF:0,Biznesowa
+#EXTGRP:PL
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:0,4fun kids
+#EXTGRP:PL
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:0,4 fun
+#EXTGRP:PL
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0,astra tv
+#EXTGRP:PL
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:0,stella tv
+#EXTGRP:PL
+https://stream.tvkstella.pl/stella/stella.m3u8
+#EXTINF:0,bialogardska
+#EXTGRP:PL
+https://bsmbialogard.pl/live/index.m3u8
+#EXTINF:0,tvt zgorzelec
+#EXTGRP:PL
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0,tv jaslo
+#EXTGRP:PL
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:0,tv kujawy
+#EXTGRP:PL
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0,tvdk
+#EXTGRP:PL
+http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:0,radio4
+#EXTGRP:PL
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+
+#EXTINF:0,ard
+#EXTGRP:DE
+http://88.212.7.11/live/test_ard_avc_25p/playlist.m3u8
+#EXTINF:0,zdf
+#EXTGRP:DE
+http://88.212.7.11/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:0,kabel1
+#EXTGRP:DE
+http://88.212.7.11/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:0,sat1
+#EXTGRP:DE
+http://88.212.7.11/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:0,sat1 gold
+#EXTGRP:DE
+http://88.212.7.11/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:0,arte de
+#EXTGRP:DE
+http://88.212.7.11/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:0,sixx
+#EXTGRP:DE
+http://88.212.7.11/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:0,[magenta] prosieben
+#EXTGRP:DE
+http://88.212.7.11/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:0,rtl de
+#EXTGRP:DE
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:0,rtl 2 hd de
+#EXTGRP:DE
+http://88.212.7.11/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:0,super rtl hd de
+#EXTGRP:DE
+http://88.212.7.11/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:0,vox hd de
+#EXTGRP:DE
+http://88.212.7.11/live/test_vox_tizen/playlist.m3u8
+#EXTINF:0,ntv
+#EXTGRP:DE
+http://88.212.7.11/live/test_ntv_tizen/playlist.m3u8
+
+#EXTINF:0,rbb
+#EXTGRP:DE
+http://88.212.7.11/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:0,wdr
+#EXTGRP:DE
+http://88.212.7.11/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:0,mdr
+#EXTGRP:DE
+http://88.212.7.11/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:0,swr
+#EXTGRP:DE
+http://88.212.7.11/live/test_swr_tizen/playlist.m3u8
+#EXTINF:0,ndr
+#EXTGRP:DE
+http://88.212.7.11/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:0,hr
+#EXTGRP:DE
+http://88.212.7.11/live/test_hr_tizen/playlist.m3u8
+#EXTINF:0,br
+#EXTGRP:DE
+http://88.212.7.11/live/test_br_tizen/playlist.m3u8
+
+#EXTINF:0,welt
+#EXTGRP:DE
+http://88.212.7.11/live/test_welt_tizen/playlist.m3u8?https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:0,[magenta] 3sat
+#EXTGRP:DE
+http://88.212.7.11/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:0,anixe
+#EXTGRP:DE
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:0,kika hd de
+#EXTGRP:DE
+http://88.212.7.11/live/test_kika_tizen/playlist.m3u8
+#EXTINF:0,orf 1 at
+#EXTGRP:DE
+http://88.212.7.11/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:0,orf 2 at
+#EXTGRP:DE
+http://88.212.7.11/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:0,o3 at
+#EXTGRP:DE
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
+#EXTINF:0,swr3
+#EXTGRP:DE
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:0,swr dasding
+#EXTGRP:DE
+https://mcdn.swr.de/swr/visualradiodasding/master.m3u8
+#EXTINF:0,bel1
+#EXTGRP:DE
+https://live-radio.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8
+#EXTINF:0,bel2
+#EXTGRP:DE
+https://live-radio.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8
+#EXTINF:0,atv
+#EXTGRP:DE
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:0,mnm
+#EXTGRP:DE
+https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/live-audio_track_0_0_dut=128000-video_track=5000000.m3u8
+#EXTINF:0,klara
+#EXTGRP:DE
+https://live-radio.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8
+#EXTINF:0,De Tijdloze
+#EXTGRP:DE
+https://live-radio.vrtcdn.be/groupa/live/f4d7a0e4-7792-4d15-b46a-bdb574026fa5/live.isml/live-audio_track_0_0_dut=128000-video_track=5000000.m3u8
+#EXTINF:0,oranje
+#EXTGRP:DE
+https://ams11.idfnv.net/LiveApp/streams/liveoranje.m3u8
+#EXTINF:0,jnd
+#EXTGRP:DE
+https://cdn.hostin.cc/radiojnd/radiojnd/playlist.m3u8
+#EXTINF:0,bnr
+#EXTGRP:DE
+https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:0,haarlem105
+#EXTGRP:DE
+https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+#EXTINF:0,goeiedagradio.be
+#EXTGRP:DE
+https://public.videostreamer.regionalemediafabriek.be/memfs/e0d4d97d-391a-4f5b-95cb-10d3f55d1b9d.m3u8
+#EXTINF:0,nlr10
+#EXTGRP:DE
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+#EXTINF:0,a_kaernten
+#EXTGRP:DE
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:0,a_steiermark
+#EXTGRP:DE
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:0,11nl
+#EXTGRP:DE
+https://s-6a2bde4a.b.cdn.bluebillywig.com/live/l1/tv/index.m3u8
+#EXTINF:-0,tirol
+#EXTGRP:DE
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-0,aktuell
+#EXTGRP:DE
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-0,bremen
+#EXTGRP:DE
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-0,muenchentv
+#EXTGRP:DE
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-0,OK Dessau
+#EXTGRP:DE
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-0,OK Magdeburg
+#EXTGRP:DE
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-0,OK Merseburg-Querfurt
+#EXTGRP:DE
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-0,OK Salzwedel
+#EXTGRP:DE
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-0,OK Stendal
+#EXTGRP:DE
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-0,OK Wernigerode
+#EXTGRP:DE
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-0,noa 4 Hamburg
+#EXTGRP:DE
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-0,noa 4 Noderstedt
+#EXTGRP:DE
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-0,ems tv
+#EXTGRP:DE
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+#EXTINF:-0,erz tv
+#EXTGRP:DE
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-0,Filstalwelle
+#EXTGRP:DE
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-0,wdw
+#EXTGRP:DE
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-0,sonnenklar
+#EXTGRP:DE
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-0,munchen
+#EXTGRP:DE
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-0,fs1
+#EXTGRP:DE
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-0,lilo
+#EXTGRP:DE
+https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/chunks.m3u8
+#EXTINF:-0,ewtn
+#EXTGRP:DE
+http://88.212.7.11/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:-0,bibel1
+#EXTGRP:DE
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+#EXTINF:-0,bibel2
+#EXTGRP:DE
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/playlist.m3u8
+#EXTINF:-0,bibel3
+#EXTGRP:DE
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-0,salve
+#EXTGRP:DE
+https://58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8
+#EXTINF:-0,sahsen
+#EXTGRP:DE
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-0,baden
+#EXTGRP:DE
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-0,nrwision
+#EXTGRP:DE
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+#EXTINF:-0,rtv1
+#EXTGRP:DE
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+#EXTINF:-0,1twente
+#EXTGRP:DE
+https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-0,rtl radio
+#EXTGRP:DE
+https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
+#EXTINF:-0,rtl1
+#EXTGRP:DE
+https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
+#EXTINF:-0,rtl2
+#EXTGRP:DE
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:-0,rtl gold
+#EXTGRP:DE
+https://stream.rtl.lu/data/live/tele/rtlgold/1080p.m3u8
+#EXTINF:-0,rtl today
+#EXTGRP:DE
+https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
+
+#EXTINF:0,ct1
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ct1_25p/playlist.m3u8
+#EXTINF:0,ct2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ct2_25p/playlist.m3u8
+#EXTINF:0,ČT sport HD CZ
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:0,ct24
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:0,ct art
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ct_art_hevc_25p/playlist.m3u8
+#EXTINF:0,doktor
+#EXTGRP:CZ-SK
+https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:0,polar
+#EXTGRP:CZ-SK
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:0,praha
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_praha_25p/playlist.m3u8
+#EXTINF:0,brno
+#EXTGRP:CZ-SK
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:0,slo1
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:0,slo2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:0,kitchen slo
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_kitchen_tv/playlist.m3u8
+#EXTINF:0,paprika
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:0,nova
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/nova_avc_25p/playlist.m3u8
+#EXTINF:0,nova inter
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_nova_int_25p/playlist.m3u8
+#EXTINF:0,nova gold
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:0,nova fun
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF:0,nova lady
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:0,nova cinema
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:0,bbc earth
+#EXTGRP:CZ-SK
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:0,tanec
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/tanecnesutaze/index.m3u8
+#EXTINF:0,park
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_park_tv/playlist.m3u8
+#EXTINF:0,moldava
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_moldava/playlist.m3u8
+#EXTINF:0,sport 2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_sport_2/playlist.m3u8
+#EXTINF:0,gttv
+#EXTGRP:CZ-SK
+https://stream.ostv.sk/GTTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,wb tv
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/warner_tv/index.m3u8
+#EXTINF:0,filmbox
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_filmbox/playlist.m3u8
+#EXTINF:0,filmbox premium
+#EXTGRP:CZ-SK
+http://212.102.38.45/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:0,filmbox stars
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:0,filmbox extra
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:0,filmbox family
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:0,filmbox arthouse
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:0,film plus
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:0,nick jr
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_nick_jr/playlist.m3u8
+#EXTINF:0,nicktoons
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_nicktoons/playlist.m3u8
+#EXTINF:0,cartoon
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:0,hbo
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:0,hbo2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:0,hbo3
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:0,axn
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_axn/playlist.m3u8
+#EXTINF:0,axn black
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_black/playlist.m3u8
+#EXTINF:0,axn white
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_white/playlist.m3u8
+#EXTINF:0,turbo
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF:0,noe
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_noe_hevc/playlist.m3u8
+#EXTINF:0,prima
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_prima_hevc_25p/playlist.m3u8
+#EXTINF:0,prima krimi
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/prima_krimi_avc_25p/playlist.m3u8
+#EXTINF:0,prima love
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:0,prima cool
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:0,prima plus
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:0,prima star
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:0,prima max
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_prima_max_hd_hevc50/playlist.m3u8
+#EXTINF:0,prima show
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:0,prima zoom
+#EXTGRP:CZ-SK
+http://212.102.38.45/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:0,cnn prima
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:0,cs history
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/cs_history_avc_25p/playlist.m3u8
+#EXTINF:0,cs film
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/cs_film_avc_25p/playlist.m3u8
+#EXTINF:0,cs mystery
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:0,pianko
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_pianko/playlist.m3u8
+#EXTINF:0,info
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:0,panorama
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_panorama/playlist.m3u8
+#EXTINF:0,reduta
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/tv_reduta/playlist.m3u8
+#EXTINF:0,raj
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_raj/playlist.m3u8
+#EXTINF:0,ziar
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_atv_ziar/playlist.m3u8
+#EXTINF:0,poprad
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_poprad/playlist.m3u8
+#EXTINF:0,zemplin
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_zemplin/playlist.m3u8
+#EXTINF:0,jim jam
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_jim_jam/playlist.m3u8
+#EXTINF:0,dajto
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_dajto_25p/playlist.m3u8
+#EXTINF:0,csrtv
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_csrtv/playlist.m3u8
+#EXTINF:0,godzone
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_vita/playlist.m3u8
+#EXTINF:0,chilli
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/chilli_tv/index.m3u8
+#EXTINF:0,nrsr
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_nrsr/playlist.m3u8
+#EXTINF:0,vega
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_vega/playlist.m3u8
+#EXTINF:0,povazie
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_povazie/playlist.m3u8
+#EXTINF:0,rebel
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_rebel/playlist.m3u8
+#EXTINF:0,life
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_life/playlist.m3u8?https://lifetv.mpks.sk/s.m3u8
+#EXTINF:0,veseljak
+#EXTGRP:CZ-SK
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,relax
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_relax/playlist.m3u8
+#EXTINF:0,superyacht
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_superyacht/playlist.m3u8
+#EXTINF:0,central
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_central/playlist.m3u8
+#EXTINF:0,Michalovce mistral
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:0,nove zamky
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_nove_zamky/playlist.m3u8
+#EXTINF:0,zapadoslovenska
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:0,herlianska
+#EXTGRP:CZ-SK
+http://212.102.38.45/live/test_herlianska/playlist.m3u8
+#EXTINF:0,nitricka
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_nitricka/playlist.m3u8
+#EXTINF:0,trnava
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_trnava/playlist.m3u8
+#EXTINF:0,mtp
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_partizanske/playlist.m3u8
+#EXTINF:0,locall
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_locall/playlist.m3u8
+#EXTINF:0,kosice
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_mtv_kosice/playlist.m3u8
+#EXTINF:0,roznava
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_roznava/playlist.m3u8
+#EXTINF:0,trebisov
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_trebisov/playlist.m3u8
+#EXTINF:0,jc1
+#EXTGRP:CZ-SK
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:0,sen
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_tv_sen_atktv/playlist.m3u8?https://videostudioris.sk/hls/tvsen.m3u8
+#EXTINF:0,tvskalica
+#EXTGRP:CZ-SK
+https://videostudioris.sk/hls/tvs.m3u8
+#EXTINF:0,ruzinov
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ruzinov/playlist.m3u8?http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:0,ruzomberok
+#EXTGRP:CZ-SK
+https://cdnsk003.panaccess.com/local/Ruzomberok/tracks-v1a1/mono.m3u8
+#EXTINF:0,kezmarok
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_severka/playlist.m3u8
+#EXTINF:0,a11
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:0,arena sport 1
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_arenasport/playlist.m3u8
+#EXTINF:0,arena sport 2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:0,auto moto sport
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ams/playlist.m3u8
+#EXTINF:0,fishing
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:0,btv
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_btv/playlist.m3u8
+#EXTINF:0,retro tv
+#EXTGRP:CZ-SK
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,ocko
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ocko/playlist.m3u8
+#EXTINF:0,ocko black
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ocko_black/playlist.m3u8
+#EXTINF:0,ocko star
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ocko_star/playlist.m3u8
+#EXTINF:0,ocko expres
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ocko_expres/playlist.m3u8
+#EXTINF:0,folklorika
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_folklorika_atktv/playlist.m3u8
+#EXTINF:0,slagr 1
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_slagr_atk_1200/playlist.m3u8
+#EXTINF:0,slagr 2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_slagr_2_atk/playlist.m3u8
+#EXTINF:0,slager premium
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:0,mnau
+#EXTGRP:CZ-SK
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:0,humenska tv
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_hntv/playlist.m3u8
+#EXTINF:0,love nature
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_lovenature/playlist.m3u8
+#EXTINF:0,h2
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_h2/playlist.m3u8
+#EXTINF:0,history
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_history/playlist.m3u8
+#EXTINF:0,amc
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_amc_25p/playlist.m3u8
+#EXTINF:0,presov tv7
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_tv7/playlist.m3u8
+#EXTINF:0,tv8
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_osem/playlist.m3u8
+#EXTINF:0,spravodajska tv9
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_tv9/playlist.m3u8
+#EXTINF:0,myslava
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_myslava/playlist.m3u8
+#EXTINF:0,barrandov
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_barrandov/playlist.m3u8
+#EXTINF:0,kino barrandov
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:0,barrandov krimi
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:0,doktor
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/tv_doktor/index.m3u8
+#EXTINF:0,spektrum
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_spektrum/playlist.m3u8
+#EXTINF:0,spektrum home
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_home_hevc/playlist.m3u8
+#EXTINF:0,hgtv
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_hgtv_hevc_25p/playlist.m3u8
+#EXTINF:0,sport 1
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_sport1_25p/playlist.m3u8
+#EXTINF:0,sport 2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_sport_2/playlist.m3u8
+#EXTINF:0,sporty
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/sporty_tv/index.m3u8
+#EXTINF:0,golf
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_golf_channel/playlist.m3u8
+#EXTINF:0,sk24
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+#EXTINF:0,senzi
+#EXTGRP:CZ-SK
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:0,rik
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_rik/playlist.m3u8
+#EXTINF:0,ta3
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ta3_25p/playlist.m3u8
+#EXTINF:0,lala
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_lala_25p/playlist.m3u8
+#EXTINF:0,wau
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_wau_25p/playlist.m3u8
+#EXTINF:0,disney
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_disney/playlist.m3u8
+#EXTINF:0,disney junior
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_disney_junior/playlist.m3u8
+#EXTINF:0,markiza
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_markiza_25p/playlist.m3u8
+#EXTINF:0,markiza krimi
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_markiza_krimi_hevc/playlist.m3u8
+#EXTINF:0,Sport Live DK
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:0,minimax
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_minimax/playlist.m3u8
+#EXTINF:0,Jednotka STV1 SK
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:0,Dvojka STV2 SK
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:0,cinemax
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:0,cinemax2
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:0,doma
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF:0,animal planet
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:0,travel
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:0,bratislava
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_batv/playlist.m3u8
+#EXTINF:0,romana
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:0,kanal1
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_upnetwork/playlist.m3u8
+#EXTINF:0,national geographic
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ngc/playlist.m3u8
+#EXTINF:0,nat geo wild
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_ngw/playlist.m3u8
+#EXTINF:0,tlc
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:0,discovery
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:0,discovery id
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:0,crime investigation
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_cai_hevc/playlist.m3u8
+#EXTINF:0,seznam
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:0,lux
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_lux_hevc/playlist.m3u8
+#EXTINF:0,joj
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_joj_25p/playlist.m3u8
+#EXTINF:0,joj plus
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_pluska_25p/playlist.m3u8
+#EXTINF:0,joj sport
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:0,joj svet
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_joj_svet/playlist.m3u8
+#EXTINF:0,joj cinema
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_joj_cinema_25p/playlist.m3u8
+#EXTINF:0,joj family
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_joj_family_hevc_25p/playlist.m3u8
+#EXTINF:0,jojko
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_jojko_25p/playlist.m3u8
+#EXTINF:0,fashion tv chechSlovak
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_fashion_hevc/playlist.m3u8
+#EXTINF:0,skvele
+#EXTGRP:CZ-SK
+http://88.212.15.27/live/test_skvele_tv_fhd/playlist.m3u8
+#EXTINF:0,terasa
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_terasa/playlist.m3u8
+#EXTINF:0,secovce
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_secovce/playlist.m3u8
+#EXTINF:0,kostol trebisov
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_mysla/playlist.m3u8
+#EXTINF:0,mysla
+#EXTGRP:CZ-SK
+http://88.212.7.11/live/test_kostol_trebisov/playlist.m3u8
+#EXTINF:0,polar
+#EXTGRP:CZ-SK
+https://stream.polar.cz/polar/polarlive-1/HasBahCa.m3u8
+#EXTINF:0,polar2
+#EXTGRP:CZ-SK
+https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
+#EXTINF:0,vctv
+#EXTGRP:CZ-SK
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:0,utv
+#EXTGRP:CZ-SK
+http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:0,plzen tv
+#EXTGRP:CZ-SK
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+
+#EXTINF:0,gimi tv
+#EXTGRP:RS
+https://stream-18.mazana.tv/kuryrtv.m3u8s
+#EXTINF:0,kristal
+#EXTGRP:RS
+http://41.205.70.146/MTVFRANCE/index.m3u8
+#EXTINF:0,niksic tv
+#EXTGRP:RS
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:0,slavonska hr
+#EXTGRP:RS
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:0,m1
+#EXTGRP:HU
+http://88.212.7.11/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,m2
+#EXTGRP:HU
+http://88.212.7.11/live/m2_hun/index.m3u8
+#EXTINF:0,m4/world
+#EXTGRP:HU
+http://88.212.7.11/live/duna_world_hun/index.m3u8
+#EXTINF:0,m4
+#EXTGRP:HU
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31519/index.m3u8
+#EXTINF:0,m5
+#EXTGRP:HU
+http://88.212.7.11/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:0,duna
+#EXTGRP:HU
+http://88.212.7.11/live/duna_hun/index.m3u8
+#EXTINF:0,atv hun
+#EXTGRP:HU
+http://88.212.7.11/live/test_atv_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,atv extra
+#EXTGRP:HU
+http://88.212.7.11/live/test_atv_spirit/playlist.m3u8
+#EXTINF:0,tv2
+#EXTGRP:HU
+http://88.212.7.11/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,super tv2
+#EXTGRP:HU
+http://88.212.7.11/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,kids tv2
+#EXTGRP:HU
+http://88.212.7.11/live/tv2_kids/index.m3u8
+#EXTINF:0,comedy tv2
+#EXTGRP:HU
+http://88.212.7.11/live/tv2_comedy/index.m3u8
+#EXTINF:0,sef tv2
+#EXTGRP:HU
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:0,tv4
+#EXTGRP:HU
+http://88.212.7.11/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:0,galaxy4
+#EXTGRP:HU
+http://88.212.7.11/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:0,story4
+#EXTGRP:HU
+http://88.212.7.11/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:0,film4
+#EXTGRP:HU
+http://88.212.7.11/live/film4_hun/index.m3u8
+#EXTINF:0,arena4
+#EXTGRP:HU
+http://88.212.7.11/live/arena4/index.m3u8
+#EXTINF:0,euronews hun
+#EXTGRP:HU
+http://88.212.7.11/live/test_euronews_hu_1200_atk/playlist.m3u8
+#EXTINF:0,sorozat+
+#EXTGRP:HU
+http://88.212.7.11/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,film+
+#EXTGRP:HU
+http://88.212.7.11/live/film_plus_hun_atk/index.m3u8
+#EXTINF:0,sorozat klub
+#EXTGRP:HU
+http://88.212.7.11/live/sorozatklub_atk/index.m3u8
+#EXTINF:0,mozi klub
+#EXTGRP:HU
+http://88.212.7.11/live/moziklub_atk/index.m3u8
+#EXTINF:0,kolyok klub
+#EXTGRP:HU
+http://88.212.7.11/live/kolyokklub_atk/index.m3u8
+#EXTINF:0,fem3
+#EXTGRP:HU
+http://88.212.7.11/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:0,rtl hun
+#EXTGRP:HU
+http://88.212.7.11/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,rtl ketto
+#EXTGRP:HU
+http://88.212.7.11/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,rtl három
+#EXTGRP:HU
+http://88.212.7.11/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,rtl otthon
+#EXTGRP:HU
+http://88.212.7.11/live/rtl_otthon_atk/index.m3u8
+#EXTINF:0,rtl gold
+#EXTGRP:HU
+http://88.212.7.11/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,prime hun
+#EXTGRP:HU
+http://88.212.7.11/live/prime/index.m3u8
+#EXTINF:0,spektrum hun
+#EXTGRP:HU
+http://88.212.7.17/live/spektrum_hun/index.m3u8
+#EXTINF:0,spektrum home hun
+#EXTGRP:HU
+http://88.212.7.11/live/spektrum_home_hun/index.m3u8
+#EXTINF:0,travel hun
+#EXTGRP:HU
+http://88.212.7.11/live/travel_hun/index.m3u8
+#EXTINF:0,discovery hun
+#EXTGRP:HU
+http://88.212.7.11/live/discovery_hungary/index.m3u8
+#EXTINF:0,tlc hun
+#EXTGRP:HU
+http://88.212.7.11/live/tlc_hungary/index.m3u8
+#EXTINF:0,food hun
+#EXTGRP:HU
+http://88.212.7.11/live/fn_hungary/index.m3u8
+#EXTINF:0,history hun
+#EXTGRP:HU
+http://88.212.7.11/live/history_hun/index.m3u8
+#EXTINF:0,travelxp hun
+#EXTGRP:HU
+http://88.212.7.11/live/travel_xp_hun/index.m3u8
+#EXTINF:0,hgtv hun
+#EXTGRP:HU
+http://88.212.7.11/live/hgtv_hun/index.m3u8
+#EXTINF:0,id hun
+#EXTGRP:HU
+http://88.212.7.11/live/id_hun/index.m3u8
+#EXTINF:0,ngc hun
+#EXTGRP:HU
+http://88.212.7.11/live/ngc_hun/index.m3u8
+#EXTINF:0,ngw hun
+#EXTGRP:HU
+http://88.212.7.11/live/ngw_hun/index.m3u8
+#EXTINF:0,amc hun
+#EXTGRP:HU
+http://88.212.7.11/live/amc_hun/index.m3u8
+#EXTINF:0,axn hun
+#EXTGRP:HU
+ttp://88.212.7.11/live/axn_hun/index.m3u8
+#EXTINF:0,ozone
+#EXTGRP:HU
+http://88.212.7.11/live/ozone/index.m3u8
+#EXTINF:0,life hun
+#EXTGRP:HU
+http://88.212.7.11/live/lifetv/index.m3u8
+#EXTINF:0,viasat film
+#EXTGRP:HU
+http://88.212.7.11/live/viasat_film/index.m3u8
+#EXTINF:0,viasat2
+#EXTGRP:HU
+http://88.212.7.11/live/viasat2/index.m3u8
+#EXTINF:0,viasat3
+#EXTGRP:HU
+http://88.212.7.11/live/viasat3/index.m3u8
+#EXTINF:0,viasat6
+#EXTGRP:HU
+http://88.212.7.11/live/viasat6/index.m3u8
+#EXTINF:0,izaura
+#EXTGRP:HU
+http://88.212.7.11/live/izaura/index.m3u8
+#EXTINF:0,jocky
+#EXTGRP:HU
+http://88.212.7.11/live/jocky/index.m3u8
+#EXTINF:0,filmbox hun
+#EXTGRP:HU
+http://88.212.7.11/live/filmbox_hungary/index.m3u8
+#EXTINF:0,filmbox+hun
+#EXTGRP:HU
+http://88.212.7.11/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:0,filmbox family
+#EXTGRP:HU
+http://88.212.7.11/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:0,filmbox emotion hd
+#EXTGRP:HU
+http://88.212.7.11/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:0,filmbox emotion
+#EXTGRP:HU
+http://88.212.7.11/live/fb_extra_hungary/index.m3u8
+#EXTINF:0,filmbox hits
+#EXTGRP:HU
+http://88.212.7.11/live/fb_premium_hungary/index.m3u8
+#EXTINF:0,magyar mozi
+#EXTGRP:HU
+http://88.212.7.11/live/mozi/index.m3u8
+#EXTINF:0,mozi+
+#EXTGRP:HU
+http://88.212.7.11/live/mozi_plusz/index.m3u8
+#EXTINF:0,moziverzum
+#EXTGRP:HU
+http://88.212.7.11/live/moziverzum/index.m3u8
+#EXTINF:0,film_cafe
+#EXTGRP:HU
+http://88.212.7.11/live/film_cafe/index.m3u8
+#EXTINF:0,muzsika tv
+#EXTGRP:HU
+http://88.212.7.11/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,slager tv
+#EXTGRP:HU
+http://88.212.7.11/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:0,zenebutik
+#EXTGRP:HU
+http://88.212.7.11/live/zenebutik/index.m3u8
+#EXTINF:0,dikh tv
+#EXTGRP:HU
+http://88.212.7.11/live/dikh/index.m3u8
+#EXTINF:0,oxygen
+#EXTGRP:HU
+https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
+#EXTINF:0,trimedio bp
+#EXTGRP:HU
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:0,discotv
+#EXTGRP:HU
+https://iptv02.eurocable.co.hu:15400/ECS-DISCOTVHD/playlist.m3u8
+#EXTINF:0,tv csaba
+#EXTGRP:HU
+http://88.212.7.11/live/test_csaba_tv_atk_800/playlist.m3u8
+#EXTINF:0,ewtn/bonum
+#EXTGRP:HU
+http://88.212.7.11/live/ewtn_bonum/index.m3u8
+#EXTINF:0,apostol
+#EXTGRP:HU
+http://88.212.7.11/live/apostol_tv/index.m3u8
+#EXTINF:0,disney hun
+#EXTGRP:HU
+http://88.212.7.11/live/disney_channel_hun/index.m3u8
+#EXTINF:0,nick hun
+#EXTGRP:HU
+http://88.212.7.11/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:0,nicktoons hun
+#EXTGRP:HU
+http://88.212.7.11/live/nicktoons_hungary/index.m3u8
+#EXTINF:0,nick junior hun
+#EXTGRP:HU
+http://88.212.7.11/live/nick_junior_hun/index.m3u8
+#EXTINF:0,nick jr hun
+#EXTGRP:HU
+http://88.212.7.11/live/test_nick_jr_hu_1200_atk/playlist.m3u8
+#EXTINF:0,minimax hun
+#EXTGRP:HU
+http://88.212.7.11/live/minimax_hun/index.m3u8
+#EXTINF:0,esp1
+#EXTGRP:HU
+http://88.212.7.11/live/esp1_hun/index.m3u8
+#EXTINF:0,esp2
+#EXTGRP:HU
+http://88.212.7.11/live/esp2_hun/index.m3u8
+#EXTINF:0,sport1
+#EXTGRP:HU
+http://88.212.7.11/live/sport1_hun/index.m3u8
+#EXTINF:0,sport2
+#EXTGRP:HU
+http://88.212.7.11/live/sport2_hun/index.m3u8
+#EXTINF:0,spiler1
+#EXTGRP:HU
+http://88.212.7.11/live/spiler1/index.m3u8
+#EXTINF:0,spiler2
+#EXTGRP:HU
+http://88.212.7.11/live/spiler2/index.m3u8
+
+#EXTINF:0,dikh radio
+#EXTGRP:HU
+https://icast.connectmedia.hu/6121/live.mp3
+#EXTINF:-1,mr1
+#EXTGRP:HU
+http://mr-stream.mediaconnect.hu/4736/mr1.mp3
+#EXTINF:-1,petofi radio
+#EXTGRP:HU
+https://mr-stream.connectmedia.hu/4738/mr2.mp3
+#EXTINF:-1,bartok radio
+#EXTGRP:HU
+http://mr-stream.mediaconnect.hu/4741/mr3.mp3
+#EXTINF:-1,nemzetiségi radio
+#EXTGRP:HU
+http://mr-stream.mediaconnect.hu/4744/mr4.mp3
+#EXTINF:-1,parlamenti radio
+#EXTGRP:HU
+http://mr-stream.mediaconnect.hu/4746/mr5.mp3
+#EXTINF:-1,danko radio
+#EXTGRP:HU
+http://mr-stream.mediaconnect.hu/4750/mr6p.mp3
+#EXTINF:-1,trimedio radio
+#EXTGRP:HU
+http://stream.streaming4u.hu:8000/TrimedioRadio
+#EXTINF:-1,tilos radio
+#EXTGRP:HU
+http://stream.tilos.hu/tilos_128.mp3
+
+#EXTINF:0,balaton hu
+#EXTGRP:HU
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0,apostol
+#EXTGRP:HU
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:0,liceum hu
+#EXTGRP:HU
+http://193.225.32.62:8890/live.m3u8
+
+#EXTINF:0,bptv
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/chunks.m3u8
+#EXTINF:0,XV
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:0,XVI
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/chunks.m3u8
+#EXTINF:0,obuda
+#EXTGRP:HU
+https://stream.streaming4u.hu/ObudaTV/index.m3u8
+#EXTINF:0,tv7 bekescsaba
+#EXTGRP:HU
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:0,alfold
+#EXTGRP:HU
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:0,bajai
+#EXTGRP:HU
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:0,berente
+#EXTGRP:HU
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:0,csurgo
+#EXTGRP:HU
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/chunks.m3u8
+#EXTINF:0,debrecen
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/chunks.m3u8
+#EXTINF:0,eger
+#EXTGRP:HU
+https://stream.tveger.hu:8012/live.m3u8
+#EXTINF:0,estv fehervar
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/chunks.m3u8
+#EXTINF:0,fuz sixo
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:0,hevizi
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:0,kanizsa
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:0,karcag
+#EXTGRP:HU
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:0,kesthely
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:0,komarom
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:0,mako
+#EXTGRP:HU
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:0,mezokovesdi
+#EXTGRP:HU
+https://cloudfront41.lexanetwork.com:1344/relay01/HDE019.sdp/chunks.m3u8
+#EXTINF:0,mora
+#EXTGRP:HU
+http://stream.moranettv.hu/live/index.m3u8?_=6372671
+#EXTINF:0,ozdi tv
+#EXTGRP:HU
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:0,oroslany
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:0,paks
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:0,rakosmente
+#EXTGRP:HU
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:0,regiotv sk
+#EXTGRP:HU
+http://88.212.7.11/live/test_regio_tv/playlist.m3u8
+#EXTINF:0,szolnok
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/chunks.m3u8
+#EXTINF:0,tata
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:0,tisza
+#EXTGRP:HU
+http://live.tiszatv.hu/tmp_hls/stream/index.m3u8
+#EXTINF:0,zalaegerszeg
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/chunks.m3u8
+
+#EXTINF:0,la 1
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31826/index.m3u8
+#EXTINF:0,la 2
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31829/index.m3u8
+#EXTINF:0,antena3
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31825/index.m3u8
+#EXTINF:0,cuatro
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31827/index.m3u8
+#EXTINF:0,telecinco
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31828/index.m3u8
+#EXTINF:0,la 6
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31833/index.m3u8
+#EXTINF:0,dkiss
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15244/index.m3u8
+#EXTINF:0,nova
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15250/index.m3u8
+#EXTINF:0,ten
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15249/index.m3u8
+#EXTINF:0,divinity
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15246/index.m3u8
+#EXTINF:0,sundance
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15247/index.m3u8
+#EXTINF:0,trece
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31885/index.m3u8
+#EXTINF:0,telesur
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/15245/index.m3u8
+#EXTINF:0,33madrid
+#EXTGRP:ES
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:0,cine hispano
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch51/index.m3u8
+#EXTINF:0,cine familiar
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch52/index.m3u8
+#EXTINF:0,Mi_Musica_Reggaeton
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:0,Mi_Musica_Romantica
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:0,Mi_Musica_Salsa
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:0,Mi_Musica_Popular
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch56/index.m3u8
+#EXTINF:0,d película
+#EXTGRP:ES
+http://181.78.12.119:16123/play/ch57/index.m3u8
+#EXTINF:0,bon dia
+#EXTGRP:ES
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:0,san roque
+#EXTGRP:ES
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0,fox deportes
+#EXTGRP:ES
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:0,gol tv
+#EXTGRP:ES
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:0,ent channel
+#EXTGRP:ES
+https://stream.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,ent family
+#EXTGRP:ES
+https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,zyoon
+#EXTGRP:ES
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
+#EXTINF:0,arpegio ag
+#EXTGRP:ES
+https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
+#EXTINF:0,canal5
+#EXTGRP:ES
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?hls_ctx=25si3lg9
+#EXTINF:0,canal8
+#EXTGRP:ES
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:0,canal14
+#EXTGRP:ES
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:0,america tv
+#EXTGRP:ES
+https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,onetoro
+#EXTGRP:ES
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7061/index.m3u8
+#EXTINF:0,canal 1
+#EXTGRP:ES
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:0,dw
+#EXTGRP:ES
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,cgtn español
+#EXTGRP:ES
+http://88.212.7.11/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:0,etb on
+#EXTGRP:ES
+https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+#EXTINF:0,telesafor
+#EXTGRP:ES
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:0,nortevision
+#EXTGRP:ES
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:0,a7 do
+#EXTGRP:ES
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:0,latele py
+#EXTGRP:ES
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:0,monterrey
+#EXTGRP:ES
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,tele ritmo
+#EXTGRP:ES
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,tv8 mx
+#EXTGRP:ES
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,melinkana cl
+#EXTGRP:ES
+https://v1.tustreaming.cl/melinkana/index.m3u8
+#EXTINF:0,2 quellon cl
+#EXTGRP:ES
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:0,la clave cl
+#EXTGRP:ES
+https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/laclavetv/livestream3/playlist.m3u8
+#EXTINF:0,aforagasta cl
+#EXTGRP:ES
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:0,rcn novelas cl
+#EXTGRP:ES
+https://stream1.bitred.cl/rcn-novelas/index.m3u8
+#EXTINF:0,rtn ar
+#EXTGRP:ES
+https://media.neuquen.gov.ar/rtn/television/chunklist_w117321693.m3u8
+#EXTINF:0,santa fe ar
+#EXTGRP:ES
+https://pantera1-100GB-cl-movistar.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:0,tv9 cl
+#EXTGRP:ES
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:0,super canal
+#EXTGRP:ES
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+#EXTINF:0,promar ve
+#EXTGRP:ES
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1,DAZN2 HD
+#EXTGRP:PT
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1,DAZN3 HD
+#EXTGRP:PT
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1,DAZN4 HD
+#EXTGRP:PT
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1,DAZN5 HD
+#EXTGRP:PT
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:-1,DAZN6 HD
+#EXTGRP:PT
+http://23.237.104.106:8080/DAZN_6/index.m3u8
+#EXTINF:0,porto canal
+#EXTGRP:PT
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:0,parlamento
+#EXTGRP:PT
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:0,primer
+#EXTGRP:PT
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:0,nova era
+#EXTGRP:PT
+http://200.194.238.229:8383/live/novaeratv/playlist.m3u8
+#EXTINF:0,urbanmovies
+#EXTGRP:PT
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0,urbanseries
+#EXTGRP:PT
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:0,urbandocs
+#EXTGRP:PT
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:0,urbankids
+#EXTGRP:PT
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0,cultura fast
+#EXTGRP:PT
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+
+#EXTINF:0,city tv
+#EXTGRP:BG
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:0,code fashion
+#EXTGRP:BG
+https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:0,code health
+#EXTGRP:BG
+https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
+#EXTINF:0,dstv
+#EXTGRP:BG
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:0,magic tv
+#EXTGRP:BG
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:0,magic ro
+#EXTGRP:BG
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:0,the voice
+#EXTGRP:BG
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:0,travel tv
+#EXTGRP:BG
+https://streamer103.neterra.tv/travel/travel_LQ.m3u8
+#EXTINF:0,this is Bulgaria
+#EXTGRP:BG
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:0,tv1
+#EXTGRP:BG
+https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
+#EXTINF:0,tv3
+#EXTGRP:BG
+https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/tracks-v1a1/mono.m3u8
+#EXTINF:0,tvn русе
+#EXTGRP:BG
+http://obs.disolution.fun//tvn/mystream.m3u8
+#EXTINF:0,safari
+#EXTGRP:BG
+http://94.236.201.122/SAFARI_CHANNEL/index.m3u8
+#EXTINF:0,invivo auto
+#EXTGRP:BG
+http://94.236.201.122/INVIVO_AUTOS/index.m3u8
+#EXTINF:0,invivo extreme
+#EXTGRP:BG
+http://94.236.201.122/INVIVO_EXTREME/index.m3u8
+#EXTINF:0,agro tv
+#EXTGRP:BG
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:0,видин tv
+#EXTGRP:BG
+https://streamer103.neterra.tv/radiovidin/live.m3u8
+#EXTINF:0,hope tv
+#EXTGRP:BG
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:0,tiankov folk
+#EXTGRP:BG
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:0,tiankov orient
+#EXTGRP:BG
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:0,пловдив православна
+#EXTGRP:BG
+http://tv.plovdivskamitropolia.bg:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:0,римекс враца
+#EXTGRP:BG
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:0,tv zagora
+#EXTGRP:BG
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:0,rtk3
+#EXTGRP:BG
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
+#EXTINF:0,rtv21
+#EXTGRP:BG
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:0,bhrt ba
+#EXTGRP:BG
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:0,rtv zenica ba
+#EXTGRP:BG
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:0,moja ba
+#EXTGRP:BG
+https://webtvstream.bhtelecom.ba/moja_tv_info.m3u8
+#EXTINF:0,malta ba
+#EXTGRP:BG
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:0,mostar ba
+#EXTGRP:BG
+http://webtvstream.bhtelecom.ba/mostar_cam.m3u8
+#EXTINF:0,smetovi ba
+#EXTGRP:BG
+https://webtvstream.bhtelecom.ba/smetovi_cam.m3u8
+#EXTINF:0,gorazde ba
+#EXTGRP:BG
+https://webtvstream.bhtelecom.ba/gorazde_cam.m3u8
+
+#EXTINF:0,tv a7
+#EXTGRP:RO
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:0,tv7music
+#EXTGRP:RO
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:0,tv fxnet
+#EXTGRP:RO
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:0,iasi
+#EXTGRP:RO
+https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:0,1 tv ge
+#EXTGRP:GE
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,2 tv ge
+#EXTGRP:GE
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:0,imedi tv ge
+#EXTGRP:GE
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:0,imedi radio
+#EXTGRP:GE
+https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8
+#EXTINF:0,formula
+#EXTGRP:GE
+http://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:0,palitra news
+#EXTGRP:GE
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+
+#EXTINF:0,tv1usa
+#EXTGRP:AM
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:0,tv1sat
+#EXTGRP:AM
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:0,tv1
+#EXTGRP:AM
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+
+#EXTINF:0,azstar
+#EXTGRP:AZ
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+#EXTINF:0,yle tv1 fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8
+#EXTINF:0,yle tv2 fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8
+#EXTINF:0,yle teema fem fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8
+#EXTINF:0,mtv3 fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:0,nelonen
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:0,tv5 fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:0,kutonen fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/kutonen/live.m3u8?hd=true
+#EXTINF:0,star
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/star-channel/live.m3u8
+#EXTINF:0,frii fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/frii/live.m3u8
+#EXTINF:0,eveo
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?hd=true
+#EXTINF:0,jim
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
+#EXTINF:0,liv fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
+#EXTINF:0,hero fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:0,sub fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:0,ava fi
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:0,viaplay
+#EXTGRP:FI-EE
+https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
+#EXTINF:0,etv ee
+#EXTGRP:FI-EE
+https://wowza1.leisertv.com/live/etv.stream/playlist.m3u8
+#EXTINF:0,etv2 ee
+#EXTGRP:FI-EE
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/14132/index.m3u8
+#EXTINF:0,etv+ ee
+#EXTGRP:FI-EE
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/7177/index.m3u8
+#EXTINF:0,kanal2
+#EXTGRP:FI-EE
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/18002/index.m3u8
+#EXTINF:0,1+2 ee
+#EXTGRP:FI-EE
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/20082/index.m3u8
+#EXTINF:0,tv3
+#EXTGRP:FI-EE
+http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6346/index.m3u8
+#EXTINF:0,nrk1
+#EXTGRP:FI-EE
+http://185.19.191.4:8090/NRK1/index.m3u8
+
+#EXTINF:0,trt1
+#EXTGRP:TR
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:0,trt turk
+#EXTGRP:TR
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,trt haber
+#EXTGRP:TR
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,trt arabi
+#EXTGRP:TR
+http://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,trt kurdi
+#EXTGRP:TR
+http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,trt avaz
+#EXTGRP:TR
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,trt muzik
+#EXTGRP:TR
+http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,trt cocuk
+#EXTGRP:TR
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:0,tv24
+#EXTGRP:TR
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:0,tv360
+#EXTGRP:TR
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0,atv
+#EXTGRP:TR
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:0,tv7
+#EXTGRP:TR
+http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
+#EXTINF:0,tv8
+#EXTGRP:TR
+http://89.187.191.41/TV8-HD-TR/index.m3u8
+#EXTINF:0,tv mc
+#EXTGRP:TR
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:0,haber61
+#EXTGRP:TR
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:0,estv
+#EXTGRP:TR
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:0,trt gr
+#EXTGRP:TR
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+
+#EXTINF:-1,09
+#EXTGRP:IL
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:-1,KAN 11
+#EXTGRP:IL
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1,Keshet 12
+#EXTGRP:IL
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1,Reshet 13
+#EXTGRP:IL
+http://stream.mcquack.net/295/index.m3u8
+#EXTINF:-1,KAN 14
+#EXTGRP:IL
+http://stream.mcquack.net/454/index.m3u8
+#EXTINF:-1,15
+#EXTGRP:IL
+http://stream.mcquack.net/45/index.m3u8
+#EXTINF:-1,23
+#EXTGRP:IL
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1,24
+#EXTGRP:IL
+http://stream.mcquack.net/42/index.m3u8
+#EXTINF:-1,33
+#EXTGRP:IL
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1,zoom
+#EXTGRP:IL
+http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1,5 Sport
+#EXTGRP:IL
+http://stream.mcquack.net/41/index.m3u8
+#EXTINF:-1,VIVA Premium
+#EXTGRP:IL
+http://stream.mcquack.net/43/index.m3u8
+#EXTINF:-1,HOP!
+#EXTGRP:IL
+http://stream.mcquack.net/44/index.m3u8
+#EXTINF:-1,Yam Tichoni
+#EXTGRP:IL
+http://stream.mcquack.net/46/index.m3u8
+#EXTINF:-1,Good Life
+#EXTGRP:IL
+http://stream.mcquack.net/47/index.m3u8
+#EXTINF:-1,Knesset
+#EXTGRP:IL
+http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1,hot zone
+#EXTGRP:IL
+http://stream.mcquack.net/379/index.m3u8
+#EXTINF:-1,yes movies action
+#EXTGRP:IL
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1,hot hbo
+#EXTGRP:IL
+http://stream.mcquack.net/381/index.m3u8

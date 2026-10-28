@@ -1917,13 +1917,13 @@ http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6287/mono.m3u8
 
 #EXTINF:0,беларусь1
 #EXTGRP:BY-SHOP
-https://ngtrk.dc.beltelecom.by/ngtrk/belarus1.stream/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:0,беларусь2
 #EXTGRP:BY-SHOP
-https://ngtrk.dc.beltelecom.by/ngtrk/belarus2.stream/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0,беларусь3
 #EXTGRP:BY-SHOP
-https://ngtrk.dc.beltelecom.by/ngtrk/belarus3.stream/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:0,беларусь4gm
 #EXTGRP:BY-SHOP
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
@@ -1944,13 +1944,13 @@ http://ott-7.sevstar.net/belarus24/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:0,беларусь 5
 #EXTGRP:BY-SHOP
-https://ngtrk.dc.beltelecom.by/ngtrk/belarus5.stream/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:0,NewsOne
 #EXTGRP:BY-SHOP
-https://ngtrk.dc.beltelecom.by/ngtrk/informacionnyy.stream/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:0,СТВi
 #EXTGRP:BY-SHOP
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/720.m3u8
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:BY-SHOP
 http://178.124.179.122:8080/TB-3/index.m3u8
@@ -1981,9 +1981,12 @@ http://7.hls.gd/ch3804/mono.m3u8?token=aaalex.v2_AkX-maPI1sAyByDgywrmvIGh94F8DJk
 #EXTINF:0,пинск
 #EXTGRP:BY-SHOP
 http://178.124.207.1:1780/tvphd
-#EXTINF:0,союзный
+#EXTINF:0,союзный hd
 #EXTGRP:BY-SHOP
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:0,союзный
+#EXTGRP:BY-SHOP
+http://178.124.179.122:8088/TRO/index.m3u8
 #EXTINF:0,центр fm
 #EXTGRP:BY-SHOP
 https://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8

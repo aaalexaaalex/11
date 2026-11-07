@@ -233,6 +233,9 @@ https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
 #EXTINF:0,pulse365
 #EXTGRP:arab
 https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:0,persiana fight
+#EXTGRP:arab
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:0,movies5
 #EXTGRP:arab
 https://flu.systemnet.tv/CBC/index.m3u8
@@ -261,6 +264,15 @@ https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 #EXTGRP:arab
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 
+#EXTINF:0,zee tv
+#EXTGRP:india
+http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:0,star gold
+#EXTGRP:india
+http://41.205.93.154/STAR-GOLD/index.m3u8
+#EXTINF:0,m sport pk
+#EXTGRP:india
+https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:0,tv9Bangla
 #EXTGRP:india
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -347,13 +359,6 @@ http://stream.mcquack.net/123/index.m3u8
 #EXTGRP:AM
 http://str.yodacdn.net/azertv/video.m3u8
 
-#EXTINF:0,nahichevan
-#EXTGRP:AZ
-https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:0,35
-#EXTGRP:AZ
-https://str2.yodacdn.net/kanal35/index.m3u8
-
 #EXTINF:0,Qazaqstan
 #EXTGRP:KZ
 http://stream.mcquack.net/71/index.m3u8
@@ -436,16 +441,22 @@ https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 #EXTINF:0,navo
 #EXTGRP:UZ
 https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+#EXTINF:0,navoyoi
+#EXTGRP:UZ
+https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nurafshon
 #EXTGRP:UZ
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+#EXTINF:0,qaraqalpaqstan
+#EXTGRP:UZ
+https://stream8.cinerama.uz/1467/playlist.m3u8
 #EXTINF:0,renessans
 #EXTGRP:UZ
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
 #EXTINF:0,sevimli
 #EXTGRP:UZ
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Tarшчш
+#EXTINF:0,tarixi
 #EXTGRP:UZ
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Taraqqiyot

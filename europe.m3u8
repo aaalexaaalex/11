@@ -60,15 +60,15 @@ https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
 #EXTINF:0,nbc
 #EXTGRP:US
 http://41.205.93.154/NBC/index.m3u8
-#EXTINF:0,amc
+#EXTINF:0,Showtimes
 #EXTGRP:US
-http://41.205.93.154/AMC/index.m3u8
-#EXTINF:0,amc east
+http://41.205.93.154/SHOWTIMES/index.m3u8
+#EXTINF:0,nicktoons
 #EXTGRP:US
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:0,tbs
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:0,bravo
 #EXTGRP:US
-http://41.205.93.154/TBS/index.m3u8
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:0,foodnetwork hd
 #EXTGRP:US
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
@@ -156,9 +156,6 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:0,bounce
 #EXTGRP:US
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:0,nickelodeon
-#EXTGRP:US
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:0,disney xd
 #EXTGRP:US
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -168,6 +165,9 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0,fxx
 #EXTGRP:US
 http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:0,more than sports
+#EXTGRP:US
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:0,blacknews
 #EXTGRP:US
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
@@ -241,6 +241,9 @@ http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6006/index.m3u8
 #EXTINF:0,paris premiere
 #EXTGRP:FR
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6146/index.m3u8
+#EXTINF:0,Tf1 cm
+#EXTGRP:FR
+http://41.205.93.154/TF1/index.m3u8
 #EXTINF:0,France2-6
 #EXTGRP:FR
 http://99.27.51.147:8080/France2/mono.m3u8
@@ -409,10 +412,16 @@ https://kalactv.vedge.infomaniak.com/livecast/kalactv/playlist.m3u8
 
 #EXTINF:-1,la une
 #EXTGRP:BE
-http://82.64.27.86:3000/T-0-10-1?http://41.205.93.154/LA-UNE/mpegts
+http://82.64.27.86:3000/T-0-10-1
+#EXTINF:-1,la une ca
+#EXTGRP:BE
+http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1,Tipik
 #EXTGRP:BE
 http://82.64.27.86:3000/T-0-10-2
+#EXTINF:-1,Tipik ca
+#EXTGRP:BE
+http://41.205.93.154/TIPIK/index.m3u8
 #EXTINF:-1,la trois
 #EXTGRP:BE
 http://82.64.27.86:3000/T-0-10-3
@@ -1943,12 +1952,12 @@ http://88.212.7.11/live/dikh/index.m3u8
 #EXTINF:0,oxygen
 #EXTGRP:HU
 https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
-#EXTINF:0,trimedio bp
-#EXTGRP:HU
-https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:0,discotv
 #EXTGRP:HU
 https://iptv02.eurocable.co.hu:15400/ECS-DISCOTVHD/playlist.m3u8
+#EXTINF:0,bunyotv
+#EXTGRP:HU
+https://iptv02.eurocable.co.hu:15400/ECS-BUNYOTVFTA/playlist.m3u8
 #EXTINF:0,tv csaba
 #EXTGRP:HU
 http://88.212.7.11/live/test_csaba_tv_atk_800/playlist.m3u8
@@ -1994,6 +2003,15 @@ http://88.212.7.11/live/spiler1/index.m3u8
 #EXTINF:0,spiler2
 #EXTGRP:HU
 http://88.212.7.11/live/spiler2/index.m3u8
+#EXTINF:0,balaton hu
+#EXTGRP:HU
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0,apostol
+#EXTGRP:HU
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:0,liceum hu
+#EXTGRP:HU
+http://193.225.32.62:8890/live.m3u8
 
 #EXTINF:0,dikh radio
 #EXTGRP:HU
@@ -2023,16 +2041,6 @@ http://stream.streaming4u.hu:8000/TrimedioRadio
 #EXTGRP:HU
 http://stream.tilos.hu/tilos_128.mp3
 
-#EXTINF:0,balaton hu
-#EXTGRP:HU
-https://stream.iptvservice.eu/hls/balatontv.m3u8
-#EXTINF:0,apostol
-#EXTGRP:HU
-https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:0,liceum hu
-#EXTGRP:HU
-http://193.225.32.62:8890/live.m3u8
-
 #EXTINF:0,bptv
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/chunks.m3u8
@@ -2042,9 +2050,9 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 #EXTINF:0,XVI
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/chunks.m3u8
-#EXTINF:0,obuda
+#EXTINF:0,XVIIrakosmente
 #EXTGRP:HU
-https://stream.streaming4u.hu/ObudaTV/index.m3u8
+https://rmtv.hu/stream/rmtv.m3u8
 #EXTINF:0,tv7 bekescsaba
 #EXTGRP:HU
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
@@ -2054,12 +2062,6 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u
 #EXTINF:0,bajai
 #EXTGRP:HU
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:0,berente
-#EXTGRP:HU
-https://stream.streaming4u.hu/BerenteTV/index.m3u8
-#EXTINF:0,csurgo
-#EXTGRP:HU
-https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/chunks.m3u8
 #EXTINF:0,debrecen
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/chunks.m3u8
@@ -2072,6 +2074,9 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/chunks.m3u8
 #EXTINF:0,fuz sixo
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:0,Gyongyosi
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 #EXTINF:0,hevizi
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
@@ -2090,9 +2095,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 #EXTINF:0,mako
 #EXTGRP:HU
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
-#EXTINF:0,mezokovesdi
-#EXTGRP:HU
-https://cloudfront41.lexanetwork.com:1344/relay01/HDE019.sdp/chunks.m3u8
 #EXTINF:0,mora
 #EXTGRP:HU
 http://stream.moranettv.hu/live/index.m3u8?_=6372671
@@ -2105,12 +2107,12 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:0,paks
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
-#EXTINF:0,rakosmente
-#EXTGRP:HU
-http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 #EXTINF:0,regiotv sk
 #EXTGRP:HU
 http://88.212.7.11/live/test_regio_tv/playlist.m3u8
+#EXTINF:0,sixo
+#EXTGRP:HU
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTINF:0,szolnok
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/chunks.m3u8
@@ -2123,6 +2125,22 @@ http://live.tiszatv.hu/tmp_hls/stream/index.m3u8
 #EXTINF:0,zalaegerszeg
 #EXTGRP:HU
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/chunks.m3u8
+
+#EXTINF:0,mezokovesdi
+#EXTGRP:HU
+https://cloudfront41.lexanetwork.com:1344/relay01/HDE019.sdp/chunks.m3u8
+#EXTINF:0,csurgo
+#EXTGRP:HU
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/chunks.m3u8
+#EXTINF:0,berente
+#EXTGRP:HU
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:0,obuda
+#EXTGRP:HU
+https://stream.streaming4u.hu/ObudaTV/index.m3u8
+#EXTINF:0,trimedio bp
+#EXTGRP:HU
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 
 #EXTINF:0,la 1
 #EXTGRP:ES
@@ -2290,21 +2308,6 @@ https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 #EXTGRP:ES
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 
-#EXTINF:-1,DAZN2 HD
-#EXTGRP:PT
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1,DAZN3 HD
-#EXTGRP:PT
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1,DAZN4 HD
-#EXTGRP:PT
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1,DAZN5 HD
-#EXTGRP:PT
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1,DAZN6 HD
-#EXTGRP:PT
-http://23.237.104.106:8080/DAZN_6/index.m3u8
 #EXTINF:0,porto canal
 #EXTGRP:PT
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
@@ -2332,6 +2335,9 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0,cultura fast
 #EXTGRP:PT
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:0,stz tv
+#EXTGRP:PT
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 
 #EXTINF:0,city tv
 #EXTGRP:BG
@@ -2369,15 +2375,6 @@ https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/tracks-v1a1/mono.m3u8
 #EXTINF:0,tvn русе
 #EXTGRP:BG
 http://obs.disolution.fun//tvn/mystream.m3u8
-#EXTINF:0,safari
-#EXTGRP:BG
-http://94.236.201.122/SAFARI_CHANNEL/index.m3u8
-#EXTINF:0,invivo auto
-#EXTGRP:BG
-http://94.236.201.122/INVIVO_AUTOS/index.m3u8
-#EXTINF:0,invivo extreme
-#EXTGRP:BG
-http://94.236.201.122/INVIVO_EXTREME/index.m3u8
 #EXTINF:0,agro tv
 #EXTGRP:BG
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
@@ -2402,12 +2399,6 @@ http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:0,tv zagora
 #EXTGRP:BG
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
-#EXTINF:0,rtk3
-#EXTGRP:BG
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
-#EXTINF:0,rtv21
-#EXTGRP:BG
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 #EXTINF:0,bhrt ba
 #EXTGRP:BG
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
@@ -2442,6 +2433,70 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:0,iasi
 #EXTGRP:RO
 https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:0,euronews alb
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:0,zico tv
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:0,zeri tv
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
+#EXTINF:0,besa tv
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
+#EXTINF:0,tv prizreni
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:0,rtv21
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF:0,rtk sat
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:0,rtk3
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:0,atv
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF:0,syri vision
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:0,ktv
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF:0,a2cnn
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/index.m3u8
+#EXTINF:0,t7
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:0,arta news
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:0,tv news
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/index.m3u8
+#EXTINF:0,radio top albania
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/dl7-q2g-5dw-7mc/index.m3u8
+#EXTINF:0,paper radio
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/g8q-v2i-3zv-efy/index.m3u8
+#EXTINF:0,radio Dukagjini
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/lmd-jx9-lwm-xgf/index.m3u8
+#EXTINF:0,glam radio
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/v05-4z0-nal-p34/index.m3u8
+#EXTINF:0,glam radio cafe
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/2u4-glv-m3v-7d8/index.m3u8
+#EXTINF:0,glam radio gold
+#EXTGRP:AL
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/bc0-7sm-66m-w0v/index.m3u8
 
 #EXTINF:0,1 tv ge
 #EXTGRP:GE
@@ -2542,9 +2597,24 @@ http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/20082/index.m3u8
 #EXTINF:0,tv3
 #EXTGRP:FI-EE
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/6346/index.m3u8
+#EXTINF:0,yle1
+#EXTGRP:FI-EE
+http://185.19.191.4:8090/YLE1/index.m3u8
+#EXTINF:0,yle2
+#EXTGRP:FI-EE
+http://185.19.191.4:8090/YLE2/index.m3u8
+#EXTINF:0,yle fem
+#EXTGRP:FI-EE
+http://185.19.191.4:8090/YLEFEM/index.m3u8
+#EXTINF:0,mtv3
+#EXTGRP:FI-EE
+http://185.19.191.4:8090/MTV3/index.m3u8
 #EXTINF:0,nrk1
 #EXTGRP:FI-EE
 http://185.19.191.4:8090/NRK1/index.m3u8
+#EXTINF:0,lietuvos rytas
+#EXTGRP:FI-EE
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 
 #EXTINF:0,trt1
 #EXTGRP:TR
@@ -2597,6 +2667,9 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:0,trt gr
 #EXTGRP:TR
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+#EXTINF:0,aspor
+#EXTGRP:TR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 
 #EXTINF:-1,09
 #EXTGRP:IL

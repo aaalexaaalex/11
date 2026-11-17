@@ -250,8 +250,8 @@ http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/32269/index.m3u8
 http://88.212.7.11/live/test_france24_france/playlist.m3u8
 #EXTINF:0,tv5info
 #EXTGRP:FR
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/04.m3u8
-#EXTINF:0,voyage+
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:0,voyages+
 #EXTGRP:FR
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 #EXTINF:0,savoir
@@ -265,7 +265,7 @@ http://88.212.7.11/live/test_superyacht/playlist.m3u8
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,cgtn
 #EXTGRP:FR
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8?http://88.212.7.11/live/test_cgtn_fra_tizen/playlist.m3u8
+http://88.212.7.11/live/test_cgtn_fra_tizen/playlist.m3u8
 #EXTINF:0,bfm tv
 #EXTGRP:FR
 http://99.27.51.147:8080/BFMTV/index.m3u8?https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&amp;bpkio_sessionid=10d0b14f196-f0bea27e-d37c-479c-954b-ab6aaf3460f4&amp;category=all&amp;mm_sp
@@ -323,12 +323,10 @@ https://tebeo.streamakaci.tv/tebeo/tebeo-multi/str_tebeo_tebeo/str_tebeo_tebeo_1
 #EXTINF:0,tv7 colmar
 #EXTGRP:FR
 https://tv7.live-kd.com/live/tv7/ngrp:tv7_Wifi/playlist.m3u8
-#EXTINF:0,tv78 yvelines
-#EXTGRP:FR
-https://strhls.streamakaci.tv/tv78/tv78-multi/tv78/tv78_1080p/chunks.m3u8
 #EXTINF:0,bip tv
 #EXTGRP:FR
 https://hls-biptv.archistream.live/hls/master.m3u8
+
 #EXTINF:0,vox africa
 #EXTGRP:FR
 https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
@@ -343,19 +341,10 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/corp/83_me
 https://africa24sport.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
 #EXTINF:0,africa 24
 #EXTGRP:FR
-https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?http://41.205.70.146/AFRICA24/index.m3u8
-#EXTINF:0,tv a12
-#EXTGRP:FR
-https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+https://edge11.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w1828288673.m3u8
 #EXTINF:0,mm tv
 #EXTGRP:FR
 http://102.132.19.90:8080/MY-MEDIA/index.m3u8
-#EXTINF:0,tahiti tv
-#EXTGRP:FR
-https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:0,4veh
-#EXTGRP:FR
-https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:0,kalac tv
 #EXTGRP:FR
 https://kalactv.vedge.infomaniak.com/livecast/kalactv/playlist.m3u8
@@ -385,15 +374,6 @@ http://41.205.93.154/AB1/index.m3u8
 #EXTGRP:BE
 http://41.205.93.154/AB3/index.m3u8
 
-#EXTINF:0,rts1
-#EXTGRP:CH
-http://84.17.50.102/rts1/index.m3u8
-#EXTINF:0,rts2
-#EXTGRP:CH
-http://84.17.50.102/rts2/index.m3u8
-#EXTINF:0,SRF regional
-#EXTGRP:CH
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:0,cna ch
 #EXTGRP:CH
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
@@ -421,9 +401,6 @@ https://edge16.vedge.infomaniak.com/livecast/compack_media_1/playlist.m3u8
 #EXTINF:0,carac5
 #EXTGRP:CH
 https://edge20.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:0,gong
-#EXTGRP:CH
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungch/playlist.m3u8
 #EXTINF:0,meteonews
 #EXTGRP:CH
 https://streaming.meteonews.net/hls/stream.m3u8
@@ -470,9 +447,6 @@ http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/19094/index.m3u8
 #EXTINF:0,RAI 3 HD
 #EXTGRP:IT
 http://88.212.7.11/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0,RAI italia
-#EXTGRP:IT
-http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/19093/index.m3u8
 #EXTINF:0,RAI sport
 #EXTGRP:IT
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19106/index.m3u8
@@ -698,9 +672,9 @@ http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:0,TO italia7 it
 #EXTGRP:IT
 https://streaming.softwarecreation.it/Italia7/Italia7/chunklist_w1969623802.m3u8
-#EXTINF:0,TO tvl pistoia
+#EXTINF:0,TO tvl14 pistoia
 #EXTGRP:IT
-https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/chunks.m3u8
+https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/chunks.m3u8
 #EXTINF:0,to prato
 #EXTGRP:IT
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
@@ -718,38 +692,38 @@ https://www.trgmedia.it/hls/livestreamHD.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/chunklist.m3u8
 #EXTINF:0,MA etv
 #EXTGRP:IT
-https://live.ipstream.it/etvmarche2/etvmarche2.stream/chunklist_w1169134434.m3u8
+https://5f11919dca3bd.streamlock.net/E-TvMarche/_definst_/myStream/playlist.m3u8
 #EXTINF:0,MA vera
 #EXTGRP:IT
 https://cdn9.streamshow.it/cloud-veratv/veratv/chunklist.m3u8
 #EXTINF:0,MA fano19
 #EXTGRP:IT
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
-#EXTINF:0,LAzio tv
+#EXTINF:0,LAzio 13
 #EXTGRP:IT
-https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-#EXTINF:0,LA gold
+https://5f11919dca3bd.streamlock.net/laziotv/_definst_/laziotv/chunklist_w825484732.m3u8
+#EXTINF:0,LA gold11
 #EXTGRP:IT
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/goldtv/_definst_/goldtv/chunklist_w1261530918.m3u8
 #EXTINF:0,LA rete oro
 #EXTGRP:IT
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0,CAM prima nap
 #EXTGRP:IT
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/chunklist_w1804831195.m3u8
-#EXTINF:0,CAM laser
+#EXTINF:0,CAM telelaser
 #EXTGRP:IT
 https://585b674743bbb.streamlock.net/9022/9022/chunklist_w1154632232.m3u8
 #EXTINF:0,CAM romantica
 #EXTGRP:IT
 https://stream10.xdevel.com/video0s977363-1901/stream/chunks.m3u8
-#EXTINF:0,CAM minformo fr
+#EXTINF:0,CAM minformo
 #EXTGRP:IT
 https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0,CAM stereo5
 #EXTGRP:IT
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:0,BA laser fr
+#EXTINF:0,BA laser
 #EXTGRP:IT
 https://57068da1deb21.streamlock.net/radiolaser/radiolaser/chunklist_w1905362574.m3u8
 #EXTINF:0,BA la nuova
@@ -758,19 +732,19 @@ https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:0,BA auroraarte
 #EXTGRP:IT
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:0,BA citta de
+#EXTINF:0,BA citta
 #EXTGRP:IT
 https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
 #EXTINF:0,BA le cronache
 #EXTGRP:IT
 http://stucazz.com:8888/hls/cronache.m3u8
-#EXTINF:0,AB delta1 gb
+#EXTINF:0,AB delta1
 #EXTGRP:IT
 https://stream6.xdevel.com/video0s976486-1271/stream/playlist.m3u8
 #EXTINF:0,AB trsp
 #EXTGRP:IT
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/chunklist_w1289471539.m3u8
-#EXTINF:0,AB il61
+#EXTINF:0,AB club tv
 #EXTGRP:IT
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:0,AB rete8
@@ -779,7 +753,7 @@ https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:0,AB rete8sport
 #EXTGRP:IT
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
-#EXTINF:0,AB retetvitalia
+#EXTINF:0,AB rete tv italia
 #EXTGRP:IT
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w1989252779.m3u8
 #EXTINF:0,AB superj
@@ -797,22 +771,16 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:0,PU bari
 #EXTGRP:IT
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
-#EXTINF:0,PU azzurra fr
-#EXTGRP:IT
-https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
 #EXTINF:0,CAL rtc
 #EXTGRP:IT
 https://w1.mediastreaming.it/calabriachannel/livestream/chunklist_w401940018.m3u8
-#EXTINF:0,CAL Reggio
+#EXTINF:0,CAL reggio
 #EXTGRP:IT
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/chunklist.m3u8
-#EXTINF:0,CAL esperia
+#EXTINF:0,CAL esperiatv
 #EXTGRP:IT
 http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
-#EXTINF:0,SAR videolina
-#EXTGRP:IT
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(3HIZ7hIgOexID2S1fjYbKu8PHqvPh4dVrS7ESFgy4RM4T8Ka8ltvp1v83Ffruhi1EGmxapsUdv7pYy27XtA7T4RGI9MwoGiSjYVxlW4iwLH8Xqovwjl2PBilifTokQj8)/cloud/3/xa0aoxk/d/live-720.m3u8
-#EXTINF:0,SC rmk
+#EXTINF:0,SC rmk80
 #EXTGRP:IT
 https://648026e87a75e.streamlock.net/rmktv/rmktv/chunklist_w470785634.m3u8
 #EXTINF:0,SC gela98

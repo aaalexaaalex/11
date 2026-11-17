@@ -528,6 +528,15 @@ https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/chunklist_w15
 #EXTINF:0,rcs
 #EXTGRP:MUSICA
 http://stream10.xdevel.com/video1s975429-2313/stream/chunks_dvr.m3u8
+#EXTINF:0,italia5
+#EXTGRP:MUSICA
+https://str34.fluid.stream/RadioItalia5/livestream/chunklist_w217619655.m3u8
+#EXTINF:0,immagine
+#EXTGRP:MUSICA
+https://media.velcom.it:8081/radioimmaginetv/tracks-v1a1/index.m3u8
+#EXTINF:0,latina
+#EXTGRP:MUSICA
+https://media.velcom.it:8081/radiolatinatv/tracks-v1a1/index.m3u8
 #EXTINF:0,radio number one lo
 #EXTGRP:MUSICA
 http://56b50ada2d659.streamlock.net/RN1TV/livestream/mono.m3u8

@@ -370,6 +370,12 @@ https://live-streaming.dpgmedia.net/qmusic-nl-srt-y1xf5lha3ebd4eaq0tcup2rm6umy7/
 #EXTINF:0,trace in star
 #EXTGRP:MUSIC
 http://myradio24.org/tisradio_video.m3u8
+#EXTINF:0,iq channel
+#EXTGRP:MUSIC
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:0,blues tv
+#EXTGRP:MUSIC
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
 #EXTINF:0,melody
 #EXTGRP:MUSIQUE
@@ -383,9 +389,6 @@ http://7.tvtm.one/ch2752/mono.m3u8?token=aaalex.v2_ZDoLPtPhyZRpMkFWPEBiLL_jnHtav
 #EXTINF:0,pulse
 #EXTGRP:MUSIQUE
 http://7.tvtm.one/ch2758/mono.m3u8?token=aaalex.v2_2m6QuwVsLffPqVVehHsPTwG8hQDz1drf8VublN8aqUHj-HMgdJFGvNPUNQplM_CxNPXSZTk4-qw
-#EXTINF:0,cstar
-#EXTGRP:MUSIQUE
-https://live.eu-north-1a.cf.dmcdn.net/sec2(LYgttkrbb-F2jR3_O9uO4jiSYLjE3OE3C_J8cz3y3TbeBgT0B2yJqP7mi_h7Avuzm4taUVeECITX5mXWK_OGvfXQ4UsleXW_DMCpbsdCIsU9Vsw7rZm1sRR6extrmrnW)/dm/3/x5gv5v0/d/live-1080@60.m3u8
 #EXTINF:0,cstar-6
 #EXTGRP:MUSIQUE
 http://99.27.51.147:8080/D17/mono.m3u8
@@ -518,7 +521,7 @@ http://streamcdng13-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f
 http://streamcdng19-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:0,deejay
 #EXTGRP:MUSICA
-http://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:0,jukebox
 #EXTGRP:MUSICA
 https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/chunklist_w1540382394.m3u8
@@ -1386,6 +1389,12 @@ http://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/mono.m3u8
 #EXTINF:0,english club
 #EXTGRP:HD
 http://88.212.7.11/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:0,history
+#EXTGRP:HD
+http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/231/index.m3u8
+#EXTINF:0,h2
+#EXTGRP:HD
+http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/2033/index.m3u8
 #EXTINF:0,viju planet
 #EXTGRP:HD
 http://stream.mcquack.net/240/index.m3u8
@@ -1401,6 +1410,9 @@ http://88.212.7.11/live/lingotoons/mono.m3u8
 #EXTINF:0,первый канал hd
 #EXTGRP:HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,первый канал4 hd
+#EXTGRP:HD
+http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/15117/index.m3u8
 #EXTINF:0,россия hd
 #EXTGRP:HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
@@ -1536,6 +1548,9 @@ http://tvoetv.space:8080/tvoetv_humor/mono.m3u8
 #EXTINF:0,ратник
 #EXTGRP:HD
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/2119/mono.m3u8
+#EXTINF:0,бобер hd
+#EXTGRP:HD
+http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/32098/index.m3u8
 #EXTINF:0,тео тв
 #EXTGRP:HD
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8?http://stream.teotv.ru/live/site360/chunklist_w311725328.m3u8
@@ -2012,6 +2027,9 @@ http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:0,kaufbei
 #EXTGRP:BY-SHOP
 http://api.alpaca.t62a.com/hls/9111/stream0.m3u8
+#EXTINF:0,kulinar
+#EXTGRP:BY-SHOP
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:0,мой мир
 #EXTGRP:BY-SHOP
 http://moymir.ru/hls/onair.m3u8
@@ -2268,6 +2286,9 @@ http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31750/mono.m3u8
 #EXTINF:0,суспільне крим hd
 #EXTGRP:UA
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31746/mono.m3u8
+#EXTINF:0,4ever theater
+#EXTGRP:UA
+http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/32108/index.m3u8
 #EXTINF:0,кино комеди
 #EXTGRP:UA
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/31814/mono.m3u8
@@ -2301,9 +2322,9 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:0,сфера
 #EXTGRP:UA
 http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
-#EXTINF:0,караван
+#EXTINF:0,100% news
 #EXTGRP:UA
-http://stream.mcquack.net/190/index.m3u8
+http://nekmqanm.velstraso.top/iptv/4WFGPXEW7AHPLB/16041/index.m3u8
 #EXTINF:0,natali
 #EXTGRP:MOVIE
 http://stream.mcquack.net/203/index.m3u8

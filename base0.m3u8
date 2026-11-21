@@ -485,7 +485,7 @@ http://stream.ecable.tv/afrobeats/mono.m3u8
 http://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:0,taormina sc
 #EXTGRP:MUSICA
-http://stream12.xdevel.com/video1s3-2467/stream/playlist_dvr.m3u8
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:0,m2o
 #EXTGRP:MUSICA
 http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/mono.m3u8
@@ -531,22 +531,34 @@ http://stream10.xdevel.com/video1s975429-2313/stream/chunks_dvr.m3u8
 #EXTINF:0,italia5
 #EXTGRP:MUSICA
 https://str34.fluid.stream/RadioItalia5/livestream/chunklist_w217619655.m3u8
+#EXTINF:0,CAM stereo5
+#EXTGRP:MUSICA
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:0,telemontecarlo
+#EXTGRP:MUSICA
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+#EXTINF:0,capital
+#EXTGRP:MUSICA
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:0,immagine
 #EXTGRP:MUSICA
 https://media.velcom.it:8081/radioimmaginetv/tracks-v1a1/index.m3u8
 #EXTINF:0,latina
 #EXTGRP:MUSICA
 https://media.velcom.it:8081/radiolatinatv/tracks-v1a1/index.m3u8
-#EXTINF:0,radio number one lo
+#EXTINF:0,LO radio number one
 #EXTGRP:MUSICA
 http://56b50ada2d659.streamlock.net/RN1TV/livestream/mono.m3u8
+#EXTINF:0,BA laser
+#EXTGRP:MUSICA
+https://57068da1deb21.streamlock.net/radiolaser/radiolaser/chunklist_w1905362574.m3u8
 #EXTINF:0,radio Lombardia
 #EXTGRP:MUSICA
 http://stream9.xdevel.com/video0s976574-1330/stream/chunks.m3u8
-#EXTINF:0,radio 51 lo
+#EXTINF:0,LO radio 51
 #EXTGRP:MUSICA
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:0,love fm er
+#EXTINF:0,ER love fm
 #EXTGRP:MUSICA
 http://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 #EXTINF:0,ibiza cam
@@ -573,6 +585,12 @@ https://cdn146-fra.azotosolutions.com:8443/cdnedge13/smil:live13.smil/chunklist_
 #EXTINF:0,norba pu
 #EXTGRP:MUSICA
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
+#EXTINF:0,studio delta 777
+#EXTINF:0,rgold
+#EXTGRP:MUSICA
+https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
+#EXTGRP:MUSICA
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0,system pu
 #EXTGRP:MUSICA
 https://srvx1.selftv.video/systemtv/smil:live/chunklist_w1045559073_b1600000_sleng_t64MTYwMGticHM=.m3u8
@@ -652,9 +670,15 @@ http://7.tvtm.one/ch027/mono.m3u8?token=aaalex.v2_CDy8qS-TUMLh-tExKWAblYCD66JYar
 #EXTINF:0,шансон
 #EXTGRP:MUZRU
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:0,шансон интер
+#EXTGRP:MUZRU
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 #EXTINF:0,fon music
 #EXTGRP:MUZRU
 http://qhdb9try.megogo.xyz/iptv/4WFGPXEW7AHPLB/19223/mono.m3u8
+#EXTINF:0,fon tv
+#EXTGRP:MUZRU
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:0,ai music
 #EXTGRP:MUZRU
 http://7.hls.gd/ch3910/mono.m3u8?token=aaalex.v2_6MHYQmHxBiRASpPFrAGiGbLXggysiHS1b9rlxjGDSYjrrOlQu5RERfJ73SduI6maozOTkJ9gp1o
@@ -1395,6 +1419,9 @@ http://stream.mcquack.net/198/index.m3u8
 #EXTINF:0,classical harmony
 #EXTGRP:HD
 http://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/mono.m3u8
+#EXTINF:0,live music
+#EXTGRP:HD
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:0,english club
 #EXTGRP:HD
 http://88.212.7.11/live/test_ectv_hd_1200/playlist.m3u8
@@ -1479,6 +1506,9 @@ http://stream.mcquack.net/205/index.m3u8
 #EXTINF:0,ngw id
 #EXTGRP:HD
 http://dmi3y-tv.online/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:0,extreme4k
+#EXTGRP:HD
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:0,trevel adventure
 #EXTGRP:HD
 http://stream.mcquack.net/206/index.m3u8
@@ -1996,6 +2026,18 @@ http://178.172.150.223:80/sporttv/index.m3u8
 #EXTINF:0,воен тв
 #EXTGRP:BY-SHOP
 http://178.172.150.223:80/voentv/index.m3u8
+#EXTINF:0,буг тв
+#EXTGRP:BY-SHOP
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:0,скиф борисов
+#EXTGRP:BY-SHOP
+http://46.53.200.153:7777/play/a01y/index.m3u8
+#EXTINF:0,скиф орша
+#EXTGRP:BY-SHOP
+http://46.53.200.153:7777/play/a01x/index.m3u8
+#EXTINF:0,светлое тв
+#EXTGRP:BY-SHOP
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
 #EXTINF:0,rtr by
 #EXTGRP:BY-SHOP
 http://7.hls.gd/ch563/mono.m3u8?token=aaalex.v2_HJ3_IhpRKeeVo_eVW5CY8lWd5y0iLA4e8XP5B_HKk-ktnz56p9pOU1Zgxj874TzBeY2hYi2Cnw
@@ -2005,9 +2047,6 @@ http://7.hls.gd/ch3806/mono.m3u8?token=aaalex.v2_fL-7LZ1f6Kwi_WmBSwAQ0KMuNKrT2BS
 #EXTINF:0,zvezda by
 #EXTGRP:BY-SHOP
 http://7.hls.gd/ch3810/mono.m3u8?token=aaalex.v2_5YoVRtBg1F0a-JPof7jxBXk90daYkJDgG5fKcWFqxsqdKOT7xRrDfE-GIQISQP3SaKZypgA4BLg
-#EXTINF:0,светлое тв
-#EXTGRP:BY-SHOP
-http://7.hls.gd/ch3807/mono.m3u8?token=aaalex.v2_1pVynLpzLi2sova6gP6BmhIvDyalsqHrLeeaX9NzhS6zsQgNJ0oT_HRItJHNulnzx83AcNAby3Q
 #EXTINF:0,yasnae тв
 #EXTGRP:BY-SHOP
 http://7.hls.gd/ch3808/mono.m3u8?token=aaalex.v2_S5ycie-2O5at6uWN31vFpQ9xdd_efcxSN3dDTWPfDLabR_BhEuUFrK_eUHSLT52EAJHx53PZs34
